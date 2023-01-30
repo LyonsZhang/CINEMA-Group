@@ -68,6 +68,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ming Wang is an associate professor in the department of Population and Quantitative Health Sciences at Case Western Reserve University. Her methodology research interests include longitudinal data analysis, survival analysis, Bayesian statistics, missing data, data integration, spatial statistics, risk prediction, model selection, and other (bio)statistical aspects related to population health, biomedical and environmental research. Her clinical interests focus on (prostate) cancer, kidney disease, cardiovascular disease, neurodegenerative disease, and child abuse. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
