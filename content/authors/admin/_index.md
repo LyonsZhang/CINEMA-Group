@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ming Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Case Western Reserve University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Wang's methodology research interests include longitudinal data analysis, survival analysis, Bayesian statistics, missing data, data integration, spatial statistics, risk prediction, model selection, and other (bio)statistical aspects related to population health, biomedical and environmental research. Her clinical interests focus on (prostate) cancer, kidney disease, cardiovascular disease, neurodegenerative disease, and child abuse. 
 
 interests:
   - Artificial Intelligence
