@@ -21,9 +21,9 @@ organizations:
 bio: Dr. Zhang's research interests center around Bayesian inference and prediction, high dimensional models, and complex structured data, such as brain imaging and metagenomic data.
 
 interests:
-  - Bayesian inference and prediction
-  - high dimensional models
-  - complex structured data
+  - High-dimensional methods for Image Data Analysis
+  - Microbiome and Compositional Data Analysis
+  - Bayesian Variable Selection in High-dimensional Setting
 
 education:
   courses:
@@ -59,9 +59,9 @@ social:
     link: https://github.com/LyonsZhang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/LiangliangZhang_CV_230131.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
