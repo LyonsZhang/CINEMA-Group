@@ -1,11 +1,11 @@
 ---
-title: Ming Wang and Liangliang Zhang Announce the Official Launch of Their Bio-Statistical Research Group
+title: Ming Wang and Liangliang Zhang Announce the Official Launch of Their Biostatistical Research Group
 date: 2023-01-31
 image:
   focal_point: 'top'
 ---
 
-Ming Wang and Liangliang Zhang Announce the Official Launch of Their Bio-Statistical Research Group
+Ming Wang and Liangliang Zhang Announce the Official Launch of Their Biostatistical Research Group
 
 <!--more-->
 
