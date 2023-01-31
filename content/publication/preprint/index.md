@@ -1,12 +1,12 @@
 ---
-title: 'An example preprint / working paper'
+title: 'ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization'
 authors:
-  - admin
-date: '2019-04-07T00:00:00Z'
+  - Chen Yang
+date: '2023-01-31T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-01-31T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +18,10 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Microbiome research is now moving beyond the compositional analysis of microbial taxa in a sample. Increasing evidence from large human microbiome studies suggests that functional consequences of changes in the intestinal microbiome may provide more power for studying their impact on inflammation and immune responses. Although 16S rRNA analysis is one of the most popular and a cost-effective method to profile the microbial compositions, marker-gene sequencing cannot provide direct information about the functional genes that are present in the genomes of community members. Bioinformatic tools have been developed to predict microbiome function with 16S rRNA gene data. Among them, PICRUSt2 has become one of the most popular functional profile predic-tion tools, which generates community-wide pathway abundances. However, no state-of-art infer-ence tools are available to test the differences in pathway abundances between comparison groups. We have developed ggpicrust2, an R package, to do extensive differential abundance(DA) analyses and provide publishable visualization to highlight the signals.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Source Themes
