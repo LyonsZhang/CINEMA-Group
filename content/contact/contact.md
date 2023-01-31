@@ -15,18 +15,18 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: liangliang.zhang2@case.edu
+  phone: 216 368 59 68
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: Euclid Avenue
+    city: Cleveland
+    region: OH
+    postcode: '10900'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '41.5045'
+    longitude: '-81.6043'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'

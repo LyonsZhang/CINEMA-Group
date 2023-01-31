@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Ming Wang is an associate professor in the department of Population and Quantitative Health Sciences at Case Western Reserve University. Her methodology research interests include longitudinal data analysis, survival analysis, Bayesian statistics, missing data, data integration, spatial statistics, risk prediction, model selection, and other (bio)statistical aspects related to population health, biomedical and environmental research. Her clinical interests focus on (prostate) cancer, kidney disease, cardiovascular disease, neurodegenerative disease, and child abuse. 
