@@ -60,3 +60,12 @@ user_groups:
   - Undergraduate Students
 ---
 
+Chen Yang is a junior at Southern Medical University majoring in biostatistics.
+
+He got 2020-2021 National Scholarship from the Ministry of Education of China. Only 0.2 percent of China’s top students receive this honor each year.
+
+He is very good at mathematical modeling and has won a lot of awards in many national competitions. And in his freshman year, he worked as a research assistant in scientific research on grass-roots health quality assessment through standardized patients, which has been completed and the results have been put into practice.
+
+During the summer of 2022, he worked as a research assistant at Case Western Reserve University Center for Quantitative Medicine, supervised by Professor Liangliang Zhang. They developed an R package that can be used to process microbiome data, and they are actively experimenting with Bayesian statistics for microbiome data.
+
+Now he is looking for a 23-summer internship and a 24-fall Ph.D. position in biostatistics or other similar fields. If you can offer him an opportunity, please feel free to contact him.
