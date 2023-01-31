@@ -70,7 +70,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 Dr. Zhang's research interests center around Bayesian inference and prediction, high dimensional models, and complex structured data, such as brain imaging and metagenomic data.
