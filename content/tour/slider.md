@@ -31,7 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
+    - title: World-Class Biostatistics Lab
       content: 'Just opened last month!'
       align: right
       background:
