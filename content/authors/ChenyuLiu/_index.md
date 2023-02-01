@@ -18,22 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Chenyu Liu is a research assistant working with me on identifying plasma proteomics that is associated with cardiac fibrosis measures in CKD (chronic kidney disease) patients.
+bio:  Chenyu is a master student in Statistics at Case Western Reserve University, with a strong background in mathematical modeling. She is also skilled in statistical data analysis, having gained hands-on experience through internships in various fields.
 
 interests:
-  - Genetics
   - Multi-omics data integration
-  - AI and Machine learning
-  - Microbiome
-
+  - Protein Analysis
+  - Bayesian Statistics
+  
 education:
   courses:
     - course: MS in Statistics
       institution: Case Western Reserve University
-      year: 2024
-    - course: Bsc in Statistics
+      year: 2023
+    - course: BSc in Statistics
       institution: Wuhan University of Technology
-      year: 2021
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,13 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'cxl1299@case.edu'
   - icon: twitter
     icon_pack: fab
-    link: 
-  - icon: github
+    link: https://twitter.com/LCY_1118
+  - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/mynetwork/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -64,4 +63,6 @@ user_groups:
   - Grad Students
 ---
 
-Chenyu Liu is a research assistant working with me on identifying plasma proteomics that is associated with cardiac fibrosis measures in CKD (chronic kidney disease) patients.
+Chenyu is a master student in Statistics at Case Western Reserve University, with a strong background in mathematical modeling. She is also skilled in statistical data analysis, having gained hands-on experience through internships in various fields.
+
+Chenyu is a research assistant working with Dr. Zhang on identifying plasma proteomics associated with cardiac fibrosis measures in CKD (chronic kidney disease) patients.
