@@ -1,5 +1,5 @@
 ---
-title: We are seeking a highly motivated Research Associate to join the biostatistics team at CWRU
+title: We are seeking a Highly Motivated Research Associate to Join the Biostatistics Team at CWRU
 date: 2023-02-01
 image:
   focal_point: 'top'
