@@ -17,7 +17,7 @@ publishDate: '2022-02-05T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: 'Microbiome'
 publication_short: ''
 
 abstract: The study compared beta diversity and clustering methods commonly used in microbiome data analysis. No single method consistently outperformed the others, but the Bray Curtis and unweighted UniFrac metrics showed poor performance in certain datasets. The study proposed a novel combined metric of BC and UU that showed high performance across all datasets, demonstrating the benefit of combining metrics.
