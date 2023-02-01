@@ -48,9 +48,9 @@ social:
     link: https://github.com/cafferychen777
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/ChenYang_CV_230131.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/ChenYang_CV_230131.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -58,11 +58,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Grad Students
 ---
 
 Xinyu Sun is a Biomedical &amp; Health Informatics PhD student in CWRU.
 
-He received his MS in Bioinformatics from Boston University and worked as a data analyst in Dr. Lindsay Farrer’s lab, studying genetic risk factors for Alzheimer’s Disease. During the two-year working experience, he learnt how to analyze WES, WGS, transcriptomic, single cell RNA data in large scale.
+He received his MS in Bioinformatics from Boston University and worked as a data analyst in Dr. Lindsay Farrer’s lab, studying genetic risk factors for Alzheimer’s Disease. During the two -year working experience, he learnt how to analyze WES, WGS, transcriptomic, single cell RNA data in large scale.
 
  He also yielded a few publications, supervised by Dr. Jaeyoon Chung. During Spring 2023, He worked as a rotation student with Dr. Zhang, who learnt and analyzed 16s microbiome dataset of CF children from University Hospital.
