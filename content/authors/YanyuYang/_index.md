@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate in Epidemiology
+role: Postdoctoral fellow at Emory University School of Medicine
 
 # Organizations/Affiliations
 organizations:
-  - name: Penn State University
+  - name: Emory University School of Medicine
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hongke Wu is a Ph.D. candidate in Epidemiology at Penn State College of Medicine. Her research interests have been focusing on cancer, nutrition, racial disparities, and environmental health. 
+bio: Yanxu Yang has more than four years of experience conducting population-based cohort studies. In Jinchang cohort study, the world’s largest multi-metal exposure cohort, Yanxu Yang, as a team leader, led her teammates to interview local workers, conduct field investigations, and process data. During the study, Yanxu Yang performed various tasks that demanded timely communication and made full preparation for all possible emergencies. Ms. Yang, also served as a research assistant for a deskpedaling study at Penn State University. Ms. Yang was responsible for communicating with participants, collecting the data and tracking feedback from participants. Yanxu Yang has rich experience in epidemiological research and field survey. Currently, diabetes and cardiovascular diseases are the primary research areas for Ms. Yang to learn. She plans to enhance her knowledge of diabetes and cardiovascular disease research by using data from the CARDIA dataset to explore these topics.
 
 interests:
 
@@ -36,7 +36,7 @@ education:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/hongke-wu/
+    link: https://www.linkedin.com/in/yanxu-yang-9ba50716b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -52,4 +52,4 @@ user_groups:
   - Alumni
 ---
 
-Hongke Wu is a Ph.D. candidate in Epidemiology at Penn State College of Medicine. Her research interests have been focusing on cancer, nutrition, racial disparities, and environmental health. 
+Yanxu Yang has more than four years of experience conducting population-based cohort studies. In Jinchang cohort study, the world’s largest multi-metal exposure cohort, Yanxu Yang, as a team leader, led her teammates to interview local workers, conduct field investigations, and process data. During the study, Yanxu Yang performed various tasks that demanded timely communication and made full preparation for all possible emergencies. Ms. Yang, also served as a research assistant for a deskpedaling study at Penn State University. Ms. Yang was responsible for communicating with participants, collecting the data and tracking feedback from participants. Yanxu Yang has rich experience in epidemiological research and field survey. Currently, diabetes and cardiovascular diseases are the primary research areas for Ms. Yang to learn. She plans to enhance her knowledge of diabetes and cardiovascular disease research by using data from the CARDIA dataset to explore these topics.
