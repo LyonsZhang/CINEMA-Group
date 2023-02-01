@@ -31,19 +31,17 @@ education:
   courses:
     - course: PhD in Biostatistics
       institution: Penn State University
-      year: 2021
-    - course: MS in Mathematics
-      institution: Georg-August-Universität Göttingen
-      year: 2017
+      year: 2020
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/biyi-shen/?trk=public_profile_browsemap
+  - icon: envelope
+    icon_pack: fas
+    link: 'chixiang.chen@som.umaryland.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
