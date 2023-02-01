@@ -54,4 +54,4 @@ user_groups:
   - Alumni
 ---
 
-Xinyu Sun is a Biostatistics Ph.D. Candidate in Penn State University.
+Biyi Shen is a Principal Biostatistician at Regeneron.
