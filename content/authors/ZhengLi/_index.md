@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Principal Biostatistician at Regeneron
+role: Senior Principal Biostatistician at Novartis
 
 # Organizations/Affiliations
 organizations:
@@ -26,10 +26,8 @@ education:
   courses:
     - course: PhD in Biostatistics
       institution: Penn State University
-      year: 2021
-    - course: MS in Mathematics
-      institution: Georg-August-Universität Göttingen
-      year: 2017
+      year: 2028
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,7 +36,7 @@ education:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/biyi-shen/?trk=public_profile_browsemap
+    link: https://www.linkedin.com/in/zheng-li-7740a438/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -54,4 +52,4 @@ user_groups:
   - Alumni
 ---
 
-Biyi Shen is a Principal Biostatistician at Regeneron.
+Zheng Li is a Senior Principal Biostatistician at Novartis.
