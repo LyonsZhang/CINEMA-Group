@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Menglu (Maggie) Liang
+title: Xue Wu
 
 # Username (this should match the folder name)
 authors:
-  - Menglu Liang
+  -  XueWu
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xinyu Sun is a Biostatistics Ph.D. Candidate in Penn State University.
+bio:  Xue Wu is a Biostatistics Ph.D. Candidate in Penn State University.
 
 interests:
   - 
@@ -30,9 +30,12 @@ education:
     - course: PhD in Biostatistics
       institution: Penn State University
       year: 
-    - course: MS in Biostatistics
-      institution: Boston University
-      year: 2019
+    - course: MS in Statistics
+      institution: Rice University
+      year: 2020
+    - course: Bsc in Statistics
+      institution: Shandong University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,7 +53,7 @@ social:
     link: 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.cn/incareer/in/menglu-liang
+    link: https://www.linkedin.cn/incareer/in/xue-wu-6a7148172
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -66,4 +69,4 @@ user_groups:
   - Grad Students
 ---
 
-Xinyu Sun is a Biostatistics Ph.D. Candidate in Penn State University.
+Xue Wu is a Biostatistics Ph.D. Candidate in Penn State University.
