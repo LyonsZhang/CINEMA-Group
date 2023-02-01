@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director Biostatistics at Bicycle Therapeutics
+role: Ph.D. candidate in Epidemiology
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,15 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hongke Wu is a Ph.D. candidate in Epidemiology at Penn State College of Medicine. Her research interests have been focusing on cancer, nutrition, racial disparities, and environmental health. 
 
 interests:
 
 education:
   courses:
-    - course: PhD in Biostatistics
+    - course: PhD in Epidemiology
       institution: Penn State University
-      year: 2017
+      year: 2023
   
 
 # Social/Academic Networking
@@ -36,7 +36,7 @@ education:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/cong-xu-66014137/
+    link: https://www.linkedin.com/in/hongke-wu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -52,4 +52,4 @@ user_groups:
   - Alumni
 ---
 
-Cong Xu is a Director Biostatistics at Bicycle Therapeutics.
+Hongke Wu is a Ph.D. candidate in epidemiology at Penn State College of Medicine. Her research interests have been focusing on cancer, nutrition, racial disparities, and environmental health. 
