@@ -14,16 +14,16 @@ role: Rotation Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Southern Medical University
-    url: 'https://www.smu.edu.cn/'
+  - name: Case Western Reserve University
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Xinyu Sun is a Biomedical & Health Informatics PhD student in CWRU.
 
 interests:
-  - Microbiome Data
-  - High-Dimensional Models
-  - Spatial Transcriptomic Data
+  - Genetics
+  - Multi-omics data integration
+  - AI and Machine learning
 
 education:
   courses:
