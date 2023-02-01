@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Principal Biostatistician at Regeneron
+role: Assistant Professor at University of Maryland
 
 # Organizations/Affiliations
 organizations:
-  - name: Penn State University
-    url: ''
+  - name: University of Maryland
+    url: 'https://www.medschool.umaryland.edu/profiles/Chen-Chixiang/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Chixiang Chen is an assistant professor of biostatistics at the Department of Epidemiology and Public Health, University of Maryland, School of Medicine. Most of his researches focus on developing statistical methodology in data/information integration within studies and across studies, causal machine learning, deconvolution and single-cell data analysis, model selection, among others. Previously he was a postdoctoral fellow at Department of Biostatistics, Epidemiology and Informatics, working with Mingyao Li and Li-san Wang (2020-2021). he obtained his Ph.D. in Biostatistics at Pennsylvania State University under the supervision of Rongling Wu and Ming Wang (2017-2020). 
 
 interests:
 
