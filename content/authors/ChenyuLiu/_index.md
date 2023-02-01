@@ -66,3 +66,4 @@ user_groups:
 Chenyu is a master student in Statistics at Case Western Reserve University, with a strong background in mathematical modeling. She is also skilled in statistical data analysis, having gained hands-on experience through internships in various fields.
 
 Chenyu is a research assistant working with Dr. Zhang on identifying plasma proteomics associated with cardiac fibrosis measures in CKD (chronic kidney disease) patients.
+
