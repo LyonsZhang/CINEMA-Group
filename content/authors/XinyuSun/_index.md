@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Chen(Caffery) Yang
+title: Xinyu Sun
 
 # Username (this should match the folder name)
 authors:
-  - ChenYang
+  - XinyuSun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Rotation Student
 
 # Organizations/Affiliations
 organizations:
@@ -60,12 +60,8 @@ user_groups:
   - Undergraduate Students
 ---
 
-Chen Yang is a junior at Southern Medical University majoring in biostatistics.
+Xinyu Sun is a Biomedical &amp; Health Informatics PhD student in CWRU.
 
-He got 2020-2021 National Scholarship from the Ministry of Education of China. Only 0.2 percent of China’s top students receive this honor each year.
+He received his MS in Bioinformatics from Boston University and worked as a data analyst in Dr. Lindsay Farrer’s lab, studying genetic risk factors for Alzheimer’s Disease. During the two-year working experience, he learnt how to analyze WES, WGS, transcriptomic, single cell RNA data in large scale.
 
-He is very good at mathematical modeling and has won a lot of awards in many national competitions. And in his freshman year, he worked as a research assistant in scientific research on grass-roots health quality assessment through standardized patients, which has been completed and the results have been put into practice.
-
-During the summer of 2022, he worked as a research assistant at Case Western Reserve University Center for Quantitative Medicine, supervised by Professor Liangliang Zhang. They developed an R package that can be used to process microbiome data, and they are actively experimenting with Bayesian statistics for microbiome data.
-
-Now he is looking for a 23-summer internship and a 24-fall Ph.D. position in biostatistics or other similar fields. If you can offer him an opportunity, please feel free to contact him.
+ He also yielded a few publications, supervised by Dr. Jaeyoon Chung. During Spring 2023, He worked as a rotation student with Dr. Zhang, who learnt and analyzed 16s microbiome dataset of CF children from University Hospital.
