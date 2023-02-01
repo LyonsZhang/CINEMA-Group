@@ -1,5 +1,5 @@
 ---
-title: We are Hiring a full-time Research Associate STS
+title: We are seeking a highly motivated Research Associate to join the biostatistics team at CWRU
 date: 2023-02-01
 image:
   focal_point: 'top'
@@ -9,9 +9,9 @@ We are seeking a highly motivated Research Associate to join the biostatistics t
 
 <!--more-->
 
-POSITION OBJECTIVE
+### POSITION OBJECTIVE
 
-We are seeking a highly motivated Research Associate to join the biostatistics team at Case Western Reserve University. The position is available immediately and will be focused on conducting statistical analysis of omics data. The Research Associate will play a pivotal role in biostatistical research. They will get involved in all aspects of statistical considerations from early phase engagement, data management, data analysis, to the final stage of research report and scientific dissemination from a variety of research projects (clinical and pre-clinical) across campus. Candidates will assist the PI to utilize data-driven approaches and statistical methods to translate large medical data from benchwork to knowledge in precision medicine. We and our partners aim to integrate state-of-art biotechnologies with various types of statistical methods to make biomedical discoveries. The successful candidate will be actively engaged in biostatistical methodology development and/or applied collaborative research in biostatistics and quantitative health. Preference will be given to a highly motivated and skilled biostatistician or bioinformatician with specific expertise in analysis of large clinical datasets, biomarker identification, Bayesian modeling, Cancer, Alzheimer’s disease, and Omics data (e.g., microbiomics, proteomics, metabolomics, and transcriptomics).
+The position is available immediately and will be focused on conducting statistical analysis of omics data. The Research Associate will play a pivotal role in biostatistical research. They will get involved in all aspects of statistical considerations from early phase engagement, data management, data analysis, to the final stage of research report and scientific dissemination from a variety of research projects (clinical and pre-clinical) across campus. Candidates will assist the PI to utilize data-driven approaches and statistical methods to translate large medical data from benchwork to knowledge in precision medicine. We and our partners aim to integrate state-of-art biotechnologies with various types of statistical methods to make biomedical discoveries. The successful candidate will be actively engaged in biostatistical methodology development and/or applied collaborative research in biostatistics and quantitative health. Preference will be given to a highly motivated and skilled biostatistician or bioinformatician with specific expertise in analysis of large clinical datasets, biomarker identification, Bayesian modeling, Cancer, Alzheimer’s disease, and Omics data (e.g., microbiomics, proteomics, metabolomics, and transcriptomics).
 
 This position offers candidates with career opportunities in advancing biomedical data analytics and project management skills. Under the guidance of the PI, the Research Associate is expected to design and plan projects, oversee collaborations, source data, coordinate the lab, and carry out research activities of an assigned project through completion. The Research Associate will keep the PI informed of progress of research projects and provide recommendations on research design and action plan. The Research Associate will also present data and findings at lab and scientific meetings, seminars, etc., prepare manuscripts, and contribute preliminary data for grant proposals. 
 
@@ -19,7 +19,7 @@ The CWRU SOM is affiliated with some of the best hospitals in the United States,
 
  
 
-ESSENTIAL FUNCTIONS
+### ESSENTIAL FUNCTIONS
 
 1. Assist the PI in developing new techniques and methods. Implement simulations and assess models with skilled programming as needed. Choose and utilize appropriate statistical methods to support collaborative research projects. (25%)
 
@@ -43,7 +43,7 @@ ESSENTIAL FUNCTIONS
 
  
 
-NONESSENTIAL FUNCTIONS
+### NONESSENTIAL FUNCTIONS
 
 1. Perform other duties as assigned. (5%)
 
@@ -51,7 +51,7 @@ NONESSENTIAL FUNCTIONS
 
  
 
-REQUIRED SKILLS
+### REQUIRED SKILLS
 
  
 
@@ -68,7 +68,7 @@ REQUIRED SKILLS
 
  
 
-CONTACTS
+### CONTACTS
 
 Department: Frequent contact with PI and lab members, may work with other faculty for collaboration of research projects, contact with administrative staff as needed
 
@@ -80,7 +80,7 @@ Students: Undergraduate and graduate student employees working in the lab
 
  
 
-DIVERSITY STATEMENT
+### DIVERSITY STATEMENT
 
 In employment, as in education, Case Western Reserve University is committed to Equal Opportunity and Diversity. Women, veterans, members of underrepresented minority groups, and individuals with disabilities are encouraged to apply.
 
