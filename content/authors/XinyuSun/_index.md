@@ -31,6 +31,9 @@ education:
     - course: PhD in Biomedical & Health Informatics 
       institution: Case Western Reserve University
       year: 
+    - course: MS in Bioinformatics
+      institution: Boston University
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
