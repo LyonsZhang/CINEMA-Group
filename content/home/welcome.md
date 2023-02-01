@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Analysis Group)** has been a center of excellence for biostatistics research, teaching, and practice since its founding in 2023.
+The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Analysis) Group** has been a center of excellence for biostatistics research, teaching, and practice since its founding in 2023.
