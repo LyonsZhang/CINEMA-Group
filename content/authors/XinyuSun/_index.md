@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-    - course: BSc in Statistics(Biostatistics)
-      institution: Southern Medical University
-      year: 2024
+    - course: PhD in Biomedical & Health Informatics 
+      institution: Case Western Reserve University
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
