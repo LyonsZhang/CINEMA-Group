@@ -36,9 +36,6 @@ education:
    - course: BSc in Biostatistics
       institution: University of Wisconsin–Madison
       year: 2018
-  - course: Material Chemistry
-      institution: Nanjing University of Science and Technology
-      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
