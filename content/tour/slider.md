@@ -43,5 +43,5 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: 'https://apply.interfolio.com/119841'
 ---

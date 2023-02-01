@@ -7,8 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wang and Zhang  
-  Research Group
+  CINEMA
+   Group
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wang and Zhang Research Group** has been a center of excellence for biostatistics research, teaching, and practice since its founding in 2023.
+The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Analysis Group)** has been a center of excellence for biostatistics research, teaching, and practice since its founding in 2023.
