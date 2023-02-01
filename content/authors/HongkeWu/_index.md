@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate in Epidemiology
+role: Ph.D. Candidate in Epidemiology
 
 # Organizations/Affiliations
 organizations:

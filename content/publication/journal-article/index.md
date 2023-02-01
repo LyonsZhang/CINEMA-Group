@@ -1,16 +1,14 @@
 ---
-title: 'An example journal article'
+title: 'Performance determinants of unsupervised clustering methods for microbiome data'
 authors:
-  - admin
-  - Robert Ford
+  - Liangliang Zhang
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+date: '2021-09-13T00:00:00Z'
+doi: 'https://doi.org/10.1186/s40168-021-01199-3'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-02-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +20,10 @@ publication_types: ['2']
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The study compared beta diversity and clustering methods commonly used in microbiome data analysis. No single method consistently outperformed the others, but the Bray Curtis and unweighted UniFrac metrics showed poor performance in certain datasets. The study proposed a novel combined metric of BC and UU that showed high performance across all datasets, demonstrating the benefit of combining metrics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this study, various beta diversity and clustering methods commonly used in microbiome analysis were systematically compared. No single method was consistently better, but certain methods underperformed in specific scenarios. A combined metric of Bray Curtis and unweighted UniFrac was proposed, tested, and found to perform well across all datasets.
 
 tags:
   - Source Themes
@@ -34,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-021-01199-3.pdf?pdf=button%20sticky
 url_code: ''
 url_dataset: ''
 url_poster: ''
