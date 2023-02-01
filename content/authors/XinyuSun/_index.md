@@ -24,6 +24,7 @@ interests:
   - Genetics
   - Multi-omics data integration
   - AI and Machine learning
+  - Microbiome
 
 education:
   courses:
