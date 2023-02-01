@@ -42,6 +42,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'chixiang.chen@som.umaryland.edu'
+ - icon: github
+    icon_pack: fab
+    link: https://github.com/chencxxy28/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=hsOQzKEAAAAJ&view_op=list_works&sortby=pubdate
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
