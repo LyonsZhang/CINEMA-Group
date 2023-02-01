@@ -1,5 +1,5 @@
 ---
-title: We are Hiring Research Associate STS
+title: We are Hiring a full-time Research Associate STS
 date: 2023-02-01
 image:
   focal_point: 'top'
@@ -25,21 +25,21 @@ ESSENTIAL FUNCTIONS
 
  
 
-​    \2. Help the PI to oversee collaborations, carry out research activities of an assigned project through completion, and ensure projects are being completed according to the research plan. Attend project meetings with collaborators with or without supervisor as directed by supervisor. Prepares written reports to investigators jointly with supervisor. (25%)
+​    2. Help the PI to oversee collaborations, carry out research activities of an assigned project through completion, and ensure projects are being completed according to the research plan. Attend project meetings with collaborators with or without supervisor as directed by supervisor. Prepares written reports to investigators jointly with supervisor. (25%)
 
  
 
-​    \3. Contribute to preparing, writing, and editing presentations, reports, research grant and contract proposals and/or post-award reports to funding agencies. With the highest level of integrity and responsible conduct of research, participate in writing manuscripts as a co-author for discoveries from research projects, together with the PI and other team members. (20%)
+​    3. Contribute to preparing, writing, and editing presentations, reports, research grant and contract proposals and/or post-award reports to funding agencies. With the highest level of integrity and responsible conduct of research, participate in writing manuscripts as a co-author for discoveries from research projects, together with the PI and other team members. (20%)
 
  
 
  
 
-​    \4. Source, prepare, evaluate, analyze, and interpret biomedical data. Assemble data and make publication-quality figures from analyzed data. Present data and findings at lab and scientific meetings, seminars, etc. (15%)
+​    4. Source, prepare, evaluate, analyze, and interpret biomedical data. Assemble data and make publication-quality figures from analyzed data. Present data and findings at lab and scientific meetings, seminars, etc. (15%)
 
  
 
-​    \5. Assess relevant literature as well as existing data, evaluates the quality of data used in reports and assists with preparation and distribution of data for committee and scientific meetings. (10%)
+​    5. Assess relevant literature as well as existing data, evaluates the quality of data used in reports and assists with preparation and distribution of data for committee and scientific meetings. (10%)
 
  
 
@@ -89,3 +89,8 @@ In employment, as in education, Case Western Reserve University is committed to 
 Experience: 1 to 3 years of experience as a biostatistician in medical research, especially in cancer research and neuro-degenerative diseases. Preference will be given to candidates with solid training in statistical modeling and programming, and excellent communication and scientific writing skills. Top candidates should have quantitative background in multi-omics, neuroimaging, longitudinal models, machine learning, tree-based methods, variable selection, Bayesian analysis, and experience leading and collaborating on teams.
 
 Education: Master or Doctorate degree in biostatistics, statistics, applied mathematics, computer science or related field. Knowledge in biology, genetics or genomics is desired but not required.
+
+### Apply
+
+[Apply Now (interfolio.com)](https://dossier.interfolio.com/apply/119841)
+
