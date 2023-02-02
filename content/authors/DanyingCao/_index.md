@@ -44,7 +44,7 @@ social:
     icon_pack: fas
     link: ' danying.cao@case.edu'
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/danying-cao-17355b1b5/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
