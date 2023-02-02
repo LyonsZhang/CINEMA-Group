@@ -22,7 +22,7 @@ publication_types: ['3']
 publication: 'Journal of the Royal Statistical Society: Series C  (Applied Statistics)'
 publication_short: ''
 
-abstract: There is a keen interest in characterizing variation in the microbiome across cancer patients, given increasing evidence of its important role in determining treatment outcomes. Here our goal is to discover subgroups of patients with similar microbiome profiles. We propose a novel unsupervised clustering approach in the Bayesian framework that innovates over existing model based clustering approaches, such as the Dirichlet multinomial mixture model, in three key respects: we incorporate feature selection, learn the appropriate number of clusters from the data, and integrate information on the tree structure relating the observed features. We compare the performance of our proposed method to existing methods on simulated data designed to mimic real microbiome data. We then illustrate results obtained for our motivating data set, a clinical study aimed at characterizing the tumor microbiome of pancreatic cancer patients. 
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
