@@ -19,7 +19,7 @@ publication_types: ['2']
 publication: 'Community Mental Health Journal'
 publication_short: ''
 
-abstract: This study examines the cumulative effects of poverty on children’s socio-emotional outcomes from ages 5 to 12, using U.S. National Longitudinal Survey of Youth data (N = 6941). Two definitions of poverty were used: absolute poverty as defined by the federal poverty threshold, and relative poverty defined as income less than 50 percent of median household income. (1) Does cumulative poverty, measured in absolute and relative terms, have any impact on children’s socio-emotional outcomes? (2) Does this association increase/decrease as children become older? Relative poverty had a stronger adverse effect on children’s social-emotional development than absolute poverty, and the adverse effect of relative poverty was bigger when children were older. Child and maternal characteristics affected children’s socio-emotional development. The income threshold for absolute poverty is lower than that for relative poverty; using a relative poverty threshold might better identify individuals with limited resources that are at risk of having adverse socio-emotional outcomes.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -64,4 +64,8 @@ slides:
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
+
+**Abstract**
+
+This study examines the cumulative effects of poverty on children’s socio-emotional outcomes from ages 5 to 12, using U.S. National Longitudinal Survey of Youth data (N = 6941). Two definitions of poverty were used: absolute poverty as defined by the federal poverty threshold, and relative poverty defined as income less than 50 percent of median household income. (1) Does cumulative poverty, measured in absolute and relative terms, have any impact on children’s socio-emotional outcomes? (2) Does this association increase/decrease as children become older? Relative poverty had a stronger adverse effect on children’s social-emotional development than absolute poverty, and the adverse effect of relative poverty was bigger when children were older. Child and maternal characteristics affected children’s socio-emotional development. The income threshold for absolute poverty is lower than that for relative poverty; using a relative poverty threshold might better identify individuals with limited resources that are at risk of having adverse socio-emotional outcomes.
 
