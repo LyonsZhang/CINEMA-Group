@@ -1,10 +1,14 @@
 ---
 title: 'Performance determinants of unsupervised clustering methods for microbiome data'
 authors:
+  - Yushu Shi
   - Liangliang Zhang
+  - Kim-Anh Do
+  - Christine B. Peterson
+  - Robert R. Jenq
 author_notes:
   - 'Equal contribution'
-date: '2021-09-13T00:00:00Z'
+date: '2022-09-13T00:00:00Z'
 doi: 'https://doi.org/10.1186/s40168-021-01199-3'
 
 # Schedule page publish date (NOT publication's date).

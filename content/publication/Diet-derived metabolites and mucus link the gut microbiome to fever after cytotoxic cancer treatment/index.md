@@ -1,7 +1,10 @@
 ---
 title: 'Diet-derived metabolites and mucus link the gut microbiome to fever after cytotoxic cancer treatment'
 authors:
+  - Zaker Schwabkey
+  - ...
   - Liangliang Zhang
+  - et al
 author_notes:
   - 'Equal contribution'
 date: '2021-09-13T00:00:00Z'

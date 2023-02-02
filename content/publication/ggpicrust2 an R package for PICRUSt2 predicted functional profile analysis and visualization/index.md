@@ -2,6 +2,8 @@
 title: 'ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization'
 authors:
   - Chen Yang
+  - Aaron Burberry
+  - Liangliang Zhang
 date: '2023-01-31T00:00:00Z'
 doi: ''
 
