@@ -42,7 +42,7 @@ social:
     icon_pack: fas
     link: 'mxw827@case.edu'
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/mwang_cwru
   - icon: google-scholar
     icon_pack: ai
