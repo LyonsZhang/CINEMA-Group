@@ -5,7 +5,6 @@ authors:
   - ...
   - Liangliang Zhang
   - et al
-author_notes:
 date: '2021-09-13T00:00:00Z'
 doi: '10.1126/scitranslmed.abo3445'
 
