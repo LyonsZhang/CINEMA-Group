@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-Feel free to get in touch with us if you have any inquiries about our biostatistics research group. We're always ready to engage with you and provide answers to your questions. We highly value communication with individuals who share our passion for bio-statistics. Please don't hesitate to drop us an email and we will respond as soon as possible. We look forward to connecting with you.
+Feel free to get in touch with us if you have any inquiries about our biostatistics research group. We're always ready to engage with you and provide answers to your questions. We highly value communication with individuals who share our passion for biostatistics. Please don't hesitate to drop us an email and we will respond as soon as possible. We look forward to connecting with you.
