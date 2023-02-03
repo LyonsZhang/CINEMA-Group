@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Danying Cao is a research assistant working with Prof. Zhang on linking plasma metabolites with patient outcomes in HIV patients.
+bio:  Danying is a master student in Statistics at Case Western Reserve University, with a focus on data analysis and modeling. She has had experience working as a bioinformatics data analysis engineer at Biotree Shanghai. 
 
 interests:
   - Genetics
@@ -61,4 +61,4 @@ user_groups:
   - Grad Students
 ---
 
-Danying Cao is a research assistant working with Prof. Zhang on linking plasma metabolites with patient outcomes in HIV patients.
+Danying is a master student in Statistics at Case Western Reserve University, with a focus on data analysis and modeling. She has had experience working as a bioinformatics data analysis engineer at Biotree Shanghai. 
