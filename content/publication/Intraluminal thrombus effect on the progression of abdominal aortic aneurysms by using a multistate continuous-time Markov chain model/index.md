@@ -8,7 +8,7 @@ authors:
   - Seungik Baek
   - Chae Young Lim
 date: '2020-09-13T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1177/0300060520968449'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-16T00:00:00Z'
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00031348211011149?journalCode=asua
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33176516/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,6 +68,18 @@ slides:
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
+
+## Abstract
+
+**Objective:** To investigate the relationship between the characteristics of intraluminal thrombus (ILT) with abdominal aortic aneurysm (AAA) expansion.
+
+**Methods:** This retrospective clinical study applied homogeneous multistate continuous-time Markov chain models to longitudinal computed tomography (CT) data from Korean patients with AAA. Four AAA states were considered (early, mild, severe, fatal) and the maximal thickness of the ILT (maxILT), the fraction of the wall area covered by the ILT (areafrac) and the fraction of ILT volume (volfrac) were used as covariates.
+
+**Results:** The analysis reviewed longitudinal CT images from 26 patients. Based on likelihood-ratio statistics, the areafrac was the most significant biomarker and maxILT was the second most significant. In addition, within AAAs that developed an ILT layer, the analysis found that the AAA expands relatively quickly during the early stage but the rate of expansion reduces once the AAA has reached a larger size.
+
+**Conclusion:** The results recommend surgical intervention when a patient has an areafrac more than 60%. Although this recommendation should be considered with caution given the limited sample size, physicians can use the proposed model as a tool to find such recommendations with their own data.
+
+**Keywords:** Abdominal aortic aneurysms; Markov chain model; intraluminal thrombus; survival analysis.
 
 
 

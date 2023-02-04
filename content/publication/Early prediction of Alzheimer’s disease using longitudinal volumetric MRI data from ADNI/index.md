@@ -8,7 +8,7 @@ authors:
   -  Jongeun Choi
   -  Tapabrata Maiti
 date: '2019-09-13T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1007/s10742-019-00206-3'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-16T00:00:00Z'
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00031348211011149?journalCode=asua
+url_pdf: https://link.springer.com/article/10.1007/s10742-019-00206-3#citeas
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,6 +68,10 @@ slides:
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
+
+## Abstract
+
+Alzheimer’s disease (AD) is a neurodegenerative disease and the most common form of dementia, affecting many millions around the world. Accurate prediction of AD is crucial for effective intervention. We develop a longitudinal data prediction framework based on functional data analysis to identify when an early prediction can reasonably be made. As the regional brain atrophy is related to AD progression, we fit our model to the longitudinal volumetric changes of five regions of interest (ROIs) quantified with MRIs: hippocampus (H), entorhinal cortex (EC), middle temporal cortex (MTC), fusiform gyrus (FG) and whole brain (WB). To evaluate the AD prediction based on each ROI and the combinations of some of them, we compare different choices by their accuracy, sensitivity, specificity and area under the curve (AUC) through training and testing procedures. The results show that these ROI volumes have prediction power as early as 3 years in advance. Among all the models, the overall sensitivity is around 80%80%, specificity is above 70%70%, accuracy is around 75%75% and AUC above 80%80%. Among all the ROIs, EC is the best predictor (with the AUCs above 0.83 for 1-year and 2-year advanced prediction), followed by MTC and hippocampus. We also find that the combination of H + EC + MTC is the best combination (with AUCs of 0.86 for 1-year, 0.85 for 2-year, and 0.82 for 3-year advanced prediction). The key finding is that the AUC of 1-year prediction is not much different from that of 3-year prediction. In other words, we can use 3-year advanced prediction.
 
 
 

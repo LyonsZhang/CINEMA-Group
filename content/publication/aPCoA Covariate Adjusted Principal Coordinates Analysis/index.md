@@ -7,7 +7,7 @@ authors:
   - Robert R. Jenq
   - Christine B. Peterson
 date: '2020-09-13T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1093/bioinformatics/btaa276'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-16T00:00:00Z'
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00031348211011149?journalCode=asua
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32339223/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,6 +67,12 @@ slides:
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
+
+## Abstract
+
+**Summary:** In fields, such as ecology, microbiology and genomics, non-Euclidean distances are widely applied to describe pairwise dissimilarity between samples. Given these pairwise distances, principal coordinates analysis is commonly used to construct a visualization of the data. However, confounding covariates can make patterns related to the scientific question of interest difficult to observe. We provide adjusted principal coordinates analysis as an easy-to-use tool, available as both an R package and a Shiny app, to improve data visualization in this context, enabling enhanced presentation of the effects of interest.
+
+**Availability and implementation:** The R package 'aPCoA' and Shiny app can be accessed at https://cran.r-project.org/web/packages/aPCoA/index.html and https://biostatistics.mdanderson.org/shinyapps/aPCoA/.
 
 
 

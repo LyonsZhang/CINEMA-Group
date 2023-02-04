@@ -5,7 +5,7 @@ authors:
   - Liangliang Zhang
   - Tapabrata Maiti 
 date: '2020-09-13T00:00:00Z'
-doi: ''
+doi: '10.1214/20-EJS1743'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-16T00:00:00Z'
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00031348211011149?journalCode=asua
+url_pdf: https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F20-EJS1743
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,6 +65,10 @@ slides:
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
+
+## Abstract
+
+Discriminating patients with Alzheimer’s disease (AD) from healthy subjects is a crucial task in the research of Alzheimer’s disease. The task can be potentially achieved by linear discriminant analysis (LDA), which is one of the most classical and popular classification techniques. However, the classification problem becomes challenging for LDA because of the high-dimensionality and the spatial dependency of the brain imaging data. To address the challenges, researchers have proposed various ways to generalize LDA into high-dimensional context in recent years. However, these existing methods did not reach any consensus on how to incorporate spatially dependent structure. In light of the current needs and limitations, we propose a new classification method, named as Penalized Maximum Likelihood Estimation LDA (PMLE-LDA). The proposed method uses *Matérn* covariance function to describe the spatial correlation of brain regions. Additionally, PMLE is designed to model the sparsity of high-dimensional features. The spatial location information is used to address the singularity of the covariance. Tapering technique is introduced to reduce computational burden. We show in theory that the proposed method can not only provide consistent results of parameter estimation and feature selection, but also generate an asymptotically optimal classifier driven by high dimensional data with specific spatially dependent structure. Finally, the method is validated through simulations and an application into ADNI data for classifying Alzheimer’s patients.
 
 
 

@@ -7,7 +7,7 @@ authors:
   - Robert R. Jenq
   - Christine B. Peterson
 date: '2020-09-13T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1111/biom.13335'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-16T00:00:00Z'
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00031348211011149?journalCode=asua
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32686846/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,6 +67,10 @@ slides:
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
+
+## Abstract
+
+The microbiome plays a critical role in human health and disease, and there is a strong scientific interest in linking specific features of the microbiome to clinical outcomes. There are key aspects of microbiome data, however, that limit the applicability of standard variable selection methods. In particular, the observed data are compositional, as the counts within each sample have a fixed-sum constraint. In addition, microbiome features, typically quantified as operational taxonomic units, often reflect microorganisms that are similar in function, and may therefore have a similar influence on the response variable. To address the challenges posed by these aspects of the data structure, we propose a variable selection technique with the following novel features: a generalized transformation and z-prior to handle the compositional constraint, and an Ising prior that encourages the joint selection of microbiome features that are closely related in terms of their genetic sequence similarity. We demonstrate that our proposed method outperforms existing penalized approaches for microbiome variable selection in both simulation and the analysis of real data exploring the relationship of the gut microbiome to body mass index.
 
 
 
