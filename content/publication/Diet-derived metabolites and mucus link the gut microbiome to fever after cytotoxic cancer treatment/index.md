@@ -2,7 +2,38 @@
 title: 'Diet-derived metabolites and mucus link the gut microbiome to fever after cytotoxic cancer treatment'
 authors:
   - Zaker Schwabkey
-  - ...
+  - Diana H Wiesnoski
+  - Chia-Chi Chang
+  - Wen-Bin Tsai
+  - Dung Pham
+  - Saira S Ahmed
+  - Tomo Hayase
+  - Miriam R Ortega Turrubiates
+  - Rawan K El-Himri
+  - Christopher A Sanchez
+  - Eiko Hayase
+  - Annette C Frenk Oquendo
+  - Takahiko Miyama
+  - Taylor M Halsey
+  - Brooke E Heckel
+  - Alexandria N Brown
+  - Yimei Jin
+  - Mathilde Raybaud
+  - Rishika Prasad
+  - Ivonne Flores
+  - Lauren McDaniel
+  - Valerie Chapa
+  - Philip L Lorenzi
+  - Marc O Warmoes
+  - Lin Tan
+  - Alton G Swennes
+  - Stephanie Fowler
+  - Margaret Conner
+  - Kevin McHugh
+  - Tyler Graf
+  - Vanessa B Jensen
+  - Christine B Peterson
+  - Kim-Anh Do
   - Liangliang Zhang
   - et al
 date: '2021-09-13T00:00:00Z'

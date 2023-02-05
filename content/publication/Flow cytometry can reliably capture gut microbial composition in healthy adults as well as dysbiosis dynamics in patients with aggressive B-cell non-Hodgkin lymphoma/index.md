@@ -2,7 +2,13 @@
 title: 'Flow cytometry can reliably capture gut microbial composition in healthy adults as well as dysbiosis dynamics in patients with aggressive B-cell non-Hodgkin lymphoma'
 authors:
   - Maren Schmiester
-  - ...
+  - René Maier
+  - René Riedel
+  - Pawel Durek
+  - Marco Frentsch
+  - Stefan Kolling
+  - Mir-Farzin Mashreghi
+  - Robert Jenq
   - Liangliang Zhang
   - et al
 date: '2022-09-13T00:00:00Z'

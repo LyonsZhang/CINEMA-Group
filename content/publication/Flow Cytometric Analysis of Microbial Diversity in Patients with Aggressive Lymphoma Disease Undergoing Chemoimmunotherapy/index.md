@@ -2,7 +2,11 @@
 title: 'Flow Cytometric Analysis of Microbial Diversity in Patients with Aggressive Lymphoma Disease Undergoing Chemoimmunotherapy'
 authors:
   - Maren Schmiester
-  - ...
+  - René Maier
+  - René Riedel
+  - Marco Frentsch
+  - Robert R. Jenq
+  - Christine B. Peterson
   - Liangliang Zhang
   - et al
 date: '2021-09-13T00:00:00Z'
