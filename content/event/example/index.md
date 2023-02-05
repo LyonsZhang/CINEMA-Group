@@ -1,10 +1,10 @@
 ---
-title: Example Event
+title: We are established!
 
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Case Western Reserve University
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
+summary: Ming Wang and Liangliang Zhang Announce the Official Launch of Their Biostatistical Research Group
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
