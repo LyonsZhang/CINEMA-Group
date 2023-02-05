@@ -18,8 +18,8 @@ publishDate: '2021-11-16T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Stat Med'
-publication_short: ''
+publication: 'Statistics in Medicine'
+publication_short: 'Stat Med'
 
 abstract: 
 

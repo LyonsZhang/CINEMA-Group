@@ -1,5 +1,5 @@
 ---
-title: 'Analysis on conversion of Alzheimer’s disease using a multi-state Markov chain model'
+title: 'Inference for marginal linear models for clustered longitudinal data with potentially informative cluster sizes'
 authors:
   - Ming Wang
   - Maiying Kong
@@ -17,7 +17,7 @@ publishDate: '2021-11-16T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Stat Methods Med Res'
+publication: 'Statistical Methods in Medical Research'
 publication_short: 'Stat Methods Med Res'
 
 abstract: 

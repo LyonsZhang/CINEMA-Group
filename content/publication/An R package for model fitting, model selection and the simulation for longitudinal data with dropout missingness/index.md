@@ -19,8 +19,8 @@ publishDate: '2021-11-16T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Commun Stat Simul Comput'
-publication_short: ''
+publication: 'Communications in Statistics - Simulation and Computation'
+publication_short: 'Commun Stat Simul Comput'
 
 abstract: 
 

@@ -22,7 +22,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Statistics in Medicine'
-publication_short: ''
+publication_short: 'Stat Med.'
 
 abstract: 
 
