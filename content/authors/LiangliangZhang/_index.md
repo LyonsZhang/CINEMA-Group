@@ -54,7 +54,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://sites.google.com/view/lyonszhang
-  - icon: github
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Lyons-Zhang
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-5986-2260
     icon_pack: fab
     link: https://github.com/LyonsZhang
 # Link to a PDF of your resume/CV from the About widget.
@@ -83,3 +88,5 @@ Dr. Zhang has extensive experience in collaborating with medical researchers fro
 He supports and collaborates in study planning and develops data-driven, intelligent and user-friendly bioinformatics that identify important signals essential in generating quantitative insights.
 
 Follow Dr. Zhang on Twitter @lyonszhang
+
+If you want to know more about Prof. Zhang, Please visit https://sites.google.com/view/lyonszhang.

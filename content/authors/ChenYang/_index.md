@@ -69,3 +69,5 @@ He is very good at mathematical modeling and has won a lot of awards in many nat
 During the summer of 2022, he worked as a research assistant at Case Western Reserve University Center for Quantitative Medicine, supervised by Professor Liangliang Zhang. They developed an R package that can be used to process microbiome data, and they are actively experimenting with Bayesian statistics for microbiome data.
 
 Now he is looking for a 23-summer internship and a 24-fall Ph.D. position in biostatistics or other similar fields. If you can offer him an opportunity, please feel free to contact him.
+
+If you want to know more about Caffery, Please visit www.cafferyyang.com.
