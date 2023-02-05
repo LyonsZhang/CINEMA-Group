@@ -1,5 +1,5 @@
 ---
-title: 'A Bayesian joint model of recurrent events and a terminal event. Biometrical Journal'
+title: 'A Bayesian joint model of recurrent events and a terminal event'
 authors:
   - Zheng Li
   - Vernon M. Chinchilli
