@@ -62,6 +62,9 @@ social:
     link: https://orcid.org/0000-0001-5986-2260
     icon_pack: fab
     link: https://github.com/LyonsZhang
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.cn/incareer/in/lyonszhang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
