@@ -4,7 +4,7 @@ title: Lijun Zhang
 
 # Username (this should match the folder name)
 authors:
-  - LijunZhang
+  - b_LijunZhang
 
 # Is this the primary user of the site?
 superuser: false

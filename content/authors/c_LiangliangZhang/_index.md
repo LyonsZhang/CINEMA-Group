@@ -4,7 +4,7 @@ title: Liangliang(Lyon) Zhang
 
 # Username (this should match the folder name)
 authors:
-  - LiangliangZhang
+  - c_LiangliangZhang
 
 # Is this the primary user of the site?
 superuser: false
