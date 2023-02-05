@@ -1,5 +1,5 @@
 ---
-title: 'Joint modeling of recurrent events and a terminal event adjusted for zero inflation and a matched design'
+title: 'A Bayesian joint model of recurrent events and a terminal event. Biometrical Journal'
 authors:
   - Zheng Li
   - Vernon M. Chinchilli
@@ -17,7 +17,7 @@ publishDate: '2021-11-16T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Stat Med'
+publication: 'Biometrical Journal'
 publication_short: ''
 
 abstract: 

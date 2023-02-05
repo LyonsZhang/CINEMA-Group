@@ -1,5 +1,5 @@
 ---
-title: 'Covariance estimators for Generalized Estimating Equations (GEE) in longitudinal analysis with small samples'
+title: 'Addressing issues associated with evaluating prediction models for survival endpoints based on the concordance statistic'
 authors:
   - Ming Wang
   - Qi Long
