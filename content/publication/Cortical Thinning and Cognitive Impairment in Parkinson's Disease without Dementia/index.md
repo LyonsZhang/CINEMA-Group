@@ -17,7 +17,7 @@ publishDate: '2021-11-16T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'IEEE/ACM Trans Comput Biol Bioinform'
+publication: 'IEEE ACM Trans Comput Biol Bioinform'
 publication_short: ''
 
 abstract: 
