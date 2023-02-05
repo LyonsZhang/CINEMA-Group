@@ -43,13 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lxz759@case.edu'
+    link: ''
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/zljlovelesson
   - icon: google-scholar
     icon_pack: ai
     link: 
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4974-2745
   - icon: github
     icon_pack: fab
     link: 
