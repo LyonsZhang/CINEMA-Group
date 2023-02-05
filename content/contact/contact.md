@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '41.5045'
     longitude: '-81.6043'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: 
   office_hours:
     - ''
     - ''
