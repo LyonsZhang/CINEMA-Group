@@ -1,5 +1,5 @@
 ---
-title: 'Arsenic exposure and prostate cancer risk: a multilevel meta-analysis. Journal of Trace Elements in Medicine and Biology'
+title: 'Arsenic exposure and prostate cancer risk: a multilevel meta-analysis'
 authors:
   -  Yanxu Yang
   -  Alicia C McDonald
