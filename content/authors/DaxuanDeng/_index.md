@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:  Daxuan Deng is a Biostatistics Ph.D. Student in Penn State University.
 
-interests:
-  - 
-  - 
-  - 
 
 education:
   courses:

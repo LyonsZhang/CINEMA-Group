@@ -20,10 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:  Xue Wu is a Biostatistics Ph.D. Candidate in Penn State University.
 
-interests:
-  - 
-  - 
-  - 
+
 
 education:
   courses:
