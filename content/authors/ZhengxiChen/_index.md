@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Zhengxi Chen is a Epidemiology & Biostatistics PhD student in CWRU.
 
-interests:
-  - 
-  - 
-  -
 
 education:
   courses:
