@@ -73,4 +73,4 @@ During the summer of 2022, he worked as a research assistant at Case Western Res
 
 Now he is looking for a 23-summer internship and a 24-fall Ph.D. position in biostatistics or other similar fields. If you can offer him an opportunity, please feel free to contact him.
 
-If you want to know more about Caffery, Please visit www.cafferyyang.com.
+If you want to know more about Caffery, Please visit  [Caffery's self homepage](www.cafferyyang.com).
