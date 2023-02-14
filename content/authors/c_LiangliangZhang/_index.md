@@ -50,7 +50,7 @@ social:
     link: 'liangliang.zhang2@case.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/lyons_zhang
+    link: https://twitter.com/lyonszhang
   - icon: google-scholar
     icon_pack: ai
     link: https://sites.google.com/view/lyonszhang
