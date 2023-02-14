@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Ming Wang and Liangliang Zhang Announce the Official Launch of Their Biostatistical Research Group
+summary: Ming Wang, Lijun Zhang,  Liangliang Zhang Announce the Official Launch of Their Biostatistical Research Group
 abstract: 'We are established!'
 
 # Talk start and end times.
