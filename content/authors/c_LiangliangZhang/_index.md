@@ -90,6 +90,6 @@ Dr. Zhang has extensive experience in collaborating with medical researchers fro
 
 He supports and collaborates in study planning and develops data-driven, intelligent and user-friendly bioinformatics that identify important signals essential in generating quantitative insights.
 
-Follow Dr. Zhang on Twitter @lyonszhang
+Follow Dr. Zhang on Twitter [@lyonszhang]([Lyons Zhang (@lyonszhang) / Twitter](https://twitter.com/lyonszhang)).
 
-If you want to know more about Prof. Zhang, Please visit https://sites.google.com/view/lyonszhang.
+If you want to know more about Prof. Zhang, Please visit [his personal homepage](https://sites.google.com/view/lyonszhang) .
