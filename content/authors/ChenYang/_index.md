@@ -63,14 +63,12 @@ user_groups:
   - Undergraduate Students
 ---
 
-Chen Yang is a junior at Southern Medical University majoring in biostatistics.
+Chen Yang is a junior at Southern Medical University majoring in biostatistics. In 2020-2021, he was awarded the National Scholarship from the Ministry of Education of China, an honor only received by 0.2% of China's top students.
 
-He got 2020-2021 National Scholarship from the Ministry of Education of China. Only 0.2 percent of China’s top students receive this honor each year.
+Chen is highly skilled in mathematical modeling and has won numerous awards in national competitions. During his freshman year, he worked as a research assistant on a project focused on assessing the quality of grass-roots health through standardized patients, and the results have been successfully implemented.
 
-He is very good at mathematical modeling and has won a lot of awards in many national competitions. And in his freshman year, he worked as a research assistant in scientific research on grass-roots health quality assessment through standardized patients, which has been completed and the results have been put into practice.
+In the summer of 2022, Chen worked as a research assistant at the Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang. They developed an R package to process microbiome data and are applying Bayesian statistics in their experiments.
 
-During the summer of 2022, he worked as a research assistant at Case Western Reserve University Center for Quantitative Medicine, supervised by Professor Liangliang Zhang. They developed an R package that can be used to process microbiome data, and they are actively experimenting with Bayesian statistics for microbiome data.
+Chen is currently seeking a summer 23 internship and a fall 24 Ph.D. position in biostatistics or a related field. If you have any opportunities available, please feel free to contact him.
 
-Now he is looking for a 23-summer internship and a 24-fall Ph.D. position in biostatistics or other similar fields. If you can offer him an opportunity, please feel free to contact him.
-
-If you want to know more about Caffery, Please visit  [Caffery's self homepage](www.cafferyyang.com).
+For more information about Chen, please visit [his personal homepage](www.cafferyyang.com).
