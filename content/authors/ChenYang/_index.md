@@ -23,7 +23,7 @@ bio:
 interests:
   - Microbiome Data
   - High-Dimensional Models
-  - Spatial Transcriptomic Data
+  - Spatial Transcriptomics
 
 education:
   courses:
