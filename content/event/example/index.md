@@ -1,7 +1,7 @@
 ---
 title: We are established!
 
-event: Conference
+event: 
 event_url: 
 
 location: Case Western Reserve University
