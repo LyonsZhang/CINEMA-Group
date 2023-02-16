@@ -28,9 +28,9 @@ content:
     latitude: '41.5045'
     longitude: '-81.6043'
   directions: 
-  office_hours:
-    - ''
-    - ''
+ # office_hours:
+ #   - ''
+ #  - ''
   appointment_url: ''
   #contact_links:
   #  - icon: comments
