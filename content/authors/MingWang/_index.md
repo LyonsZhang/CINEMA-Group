@@ -4,7 +4,7 @@ title: Ming Wang
 
 # Username (this should match the folder name)
 authors:
-  - a_MingWang
+  - MingWang
 
 # Is this the primary user of the site?
 superuser: false
