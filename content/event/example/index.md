@@ -1,15 +1,15 @@
 ---
 title: We are established!
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Conference
+event_url: 
 
 location: Case Western Reserve University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: Euclid Avenue
+  city: Cleveland
+  region: OH
+  postcode: '10900'
   country: United States
 
 summary: Ming Wang, Lijun Zhang,  Liangliang Zhang Announce the Official Launch of Their Biostatistical Research Group
