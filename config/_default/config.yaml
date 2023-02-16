@@ -5,6 +5,7 @@
 
 title: CINEMA Research Group # Website name
 baseURL: 'https://example.com/' # Website URL
+googleAnalytics: 'GA4(353784980)'
 
 ############################
 ## LANGUAGE
