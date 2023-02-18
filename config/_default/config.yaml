@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CINEMA Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://cwru-cinema.com/' # Website URL
 googleAnalytics: 'GA4(353784980)'
 
 ############################
