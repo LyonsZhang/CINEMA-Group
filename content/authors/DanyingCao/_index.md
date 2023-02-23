@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ' mailto:danying.cao@case.edu'
+    link: ' danying.cao@case.edu'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/danying-cao-17355b1b5/
