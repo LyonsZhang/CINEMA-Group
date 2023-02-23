@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mxw827@case.edu'
+    link: 'mailto:mxw827@case.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mwang_cwru

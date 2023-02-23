@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'cxl1299@case.edu'
+    link: 'mailto:cxl1299@case.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LCY_1118
