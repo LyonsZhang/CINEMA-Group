@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - MSc Students
 ---
 
 Danying is a master student in Statistics at Case Western Reserve University, with a focus on data analysis and modeling. She has had experience working as a bioinformatics data analysis engineer at Biotree Shanghai. 
