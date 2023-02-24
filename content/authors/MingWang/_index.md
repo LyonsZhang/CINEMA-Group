@@ -59,9 +59,9 @@ social:
     link: https://orcid.org/0000-0002-9977-7041
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/MingWang_CV_230225.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,5 +77,5 @@ user_groups:
 
 Ming Wang is an associate professor in the department of Population and Quantitative Health Sciences at Case Western Reserve University. Her methodology research interests include longitudinal data analysis, survival analysis, Bayesian statistics, missing data, data integration, spatial statistics, risk prediction, model selection, and other (bio)statistical aspects related to population health, biomedical and environmental research. Her clinical interests focus on (prostate) cancer, kidney disease, cardiovascular disease, neurodegenerative disease, and child abuse. 
 
-If you want to know more about Prof. Wang, Please visit https://sites.google.com/view/mingwang-cwru/people.
+If you want to know more about Prof. Wang, Please visit her [self-homepage](https://sites.google.com/view/mingwang-cwru/people).
 
