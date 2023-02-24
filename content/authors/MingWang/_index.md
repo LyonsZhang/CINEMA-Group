@@ -59,7 +59,7 @@ social:
     link: https://orcid.org/0000-0002-9977-7041
   - icon: cv
     icon_pack: ai
-    link: files/LiangliangZhang_CV_230131.pdf
+    link: files/MingWang_CV_230225.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
