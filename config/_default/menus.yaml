@@ -16,12 +16,21 @@ main:
   - name: Events
     url: event
     weight: 40
+  - name: Projects
+    url: project
+    weight: 50
   - name: Publications
     url: publication
-    weight: 50
+    weight: 60
+  - name: Tools
+    url: tool
+    weight: 70
+  - name: Resources
+    url: resource
+    weight: 80
   - name: Join Us
     url: join
-    weight: 60
+    weight: 90
   - name: Contact Us
     url: contact
-    weight: 70
+    weight: 100
