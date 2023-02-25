@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Latest Job Postings
 
 # Listing view
 view: compact
