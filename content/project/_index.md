@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Still under construction
 
 # Listing view
 view: compact
