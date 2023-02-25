@@ -1,11 +1,11 @@
 ---
-title: Research Associate Position Openings
+title: Research Associate Position Openings(Multiomics Analysis)
 date: 2023-02-01
 image:
   focal_point: 'top'
 ---
 
-We are seeking a highly motivated Research Associate to join the biostatistics team at Case Western Reserve University. 
+We are seeking a highly motivated Research Associate(Multiomics Analysis) to join the biostatistics team at Case Western Reserve University. 
 
 <!--more-->
 
