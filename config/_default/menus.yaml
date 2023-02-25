@@ -28,9 +28,9 @@ main:
   - name: Resources
     url: resource
     weight: 80
-  - name: Join Us
+  - name: Join
     url: join
     weight: 90
-  - name: Contact Us
+  - name: Contact
     url: contact
     weight: 100
