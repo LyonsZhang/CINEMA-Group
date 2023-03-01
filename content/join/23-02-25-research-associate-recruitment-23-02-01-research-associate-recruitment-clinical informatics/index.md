@@ -59,5 +59,5 @@ No direct supervisory responsibilities. Will train and provide oversight to lab 
 
 4. Ability to work effectively independently and collaboratively within a team. Must be highly motivated
 
-   # [Apply - Interfolio](https://apply.interfolio.com/120863))
+   # [Apply - Interfolio](https://apply.interfolio.com/120863)
 
