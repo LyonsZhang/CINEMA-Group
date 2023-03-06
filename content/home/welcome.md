@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   CINEMA
-   Research
+   Group
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Atlas) Research** has established itself as a statistical center of excellence for biomedical research, interdisciplinary collaboration, personalized teaching, and translational practice at CWRU (Case Western Reserve University) since its launching in 2023.
+The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Atlas)** Group has established itself at CWRU (Case Western Reserve University) as a biostatistical and bioinformatic center of facilitating computational excellence and quantitative innovation for clinical study, diagnostic imaging, high-throughput data and complex diseases since its launch in 2023. We provide efficient and promising statistical support to other researchers, clinicians, or organizations in the biological and health sciences. This may involve advising on study design, data collection and management, statistical analysis, and interpretation of results. We are open to cross-disciplinary collaboration and the practical application of research findings. 
