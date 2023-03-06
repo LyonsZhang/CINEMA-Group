@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: liangliang.zhang2@case.edu
+  email: cinema@case.edu
   phone: 216 368 59 68
   address:
     street: Euclid Avenue

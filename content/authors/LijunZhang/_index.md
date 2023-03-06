@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lxz759@case.edu'
+    link: 'mailto:lxz759@case.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/zljlovelesson

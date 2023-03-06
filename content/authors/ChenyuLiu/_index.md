@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'cxl1299@case.edu'
+    link: 'mailto:cxl1299@case.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LCY_1118
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - MSc Students
 ---
 
 Chenyu is a master student in Statistics at Case Western Reserve University, with a strong background in mathematical modeling. She is also skilled in statistical data analysis, having gained hands-on experience through internships in various fields.
