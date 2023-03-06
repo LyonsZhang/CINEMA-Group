@@ -80,13 +80,13 @@ user_groups:
   - Principal Investigators
 ---
 
-Dr. Zhang's research interests center around Bayesian inference and prediction, high dimensional models, and complex structured data, such as brain imaging and metagenomic data.
+Dr. Zhang focuses on studying the influence of molecular factors on patient outcomes and disease progression. He develops bioinformatic tools and biostatistical methods to conduct upstream and downstream analysis of multiomics data. Regarding quantitative techniques, his research interests center around Bayesian inference and prediction, high dimensional models, and complex structured data, such as brain imaging and microbiome data.
 
-He works closely with biostatisticians and clinicians on linking quantitative microbiome profiling from different body sites (gut, oral, tumor, urine, etc.) to cancer-related disease outcomes and investigating how the microbiota can influence the outcome of cancer immunotherapy.
+He works closely with clinicians on linking quantitative microbiome profiling from different body sites (gut, oral, tumor, urine, etc.) to cancer-related disease outcomes and investigating how the microbiota can influence the outcome of cancer immunotherapy.
 
 He has broad computational expertise in analyzing and modeling across data types and studies and focuses on developing quantitative methods and bioinformatic tools to identify biomarkers that can be used in specific immunotherapy or treatment design. He has developed Bayesian zero-constrained regression modeling with structured priors for microbiome feature selection. That work was featured in a study recently published in Biometrics. He also has developed progressive permutation for multiple testing problems. That work was recently published in BMC Bioinformatics.
 
-Dr. Zhang has extensive experience in collaborating with medical researchers from different biomedical fields, resulting in publications and abstracts accepted to journals such as Cell, Science, Cancer, and Scientific Reports, among others.
+Dr. Zhang has extensive experience in collaborating with researchers from different biomedical fields, resulting in publications and abstracts accepted to journals such as Cell, Science, Cancer, and Scientific Reports, among others.
 
 He supports and collaborates in study planning and develops data-driven, intelligent and user-friendly bioinformatics that identify important signals essential in generating quantitative insights.
 
