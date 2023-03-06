@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   CINEMA
-   Group
+   Research
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Atlas) Group** has been a center of excellence for biostatistics research, teaching, and practice since its founding in 2023.
+The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Atlas) Research** has established itself as a statistical center of excellence for biomedical research, interdisciplinary collaboration, personalized teaching, and translational practice at CWRU (Case Western Reserve University) since its launching in 2023.
