@@ -60,15 +60,13 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 Chen Yang is a junior at Southern Medical University majoring in biostatistics. In 2020-2021, he was awarded the National Scholarship from the Ministry of Education of China, an honor only received by 0.2% of China's top students.
 
 Chen is highly skilled in mathematical modeling and has won numerous awards in national competitions. During his freshman year, he worked as a research assistant on a project focused on assessing the quality of grass-roots health through standardized patients, and the results have been successfully implemented.
 
-In the summer of 2022, Chen worked as a research assistant at the Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang. They developed an R package to process microbiome data and are applying Bayesian statistics in their experiments.
+In the summer of 2022, Chen worked as a research assistant at the Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang. They developed an R package to process PICRUSt2 predicted functional data.
 
 Chen is currently seeking a summer 23 internship and a fall 24 Ph.D. position in biostatistics or a related field. If you have any opportunities available, please feel free to contact him.
-
-For more information about Chen, please visit [his personal homepage](www.cafferyyang.com).
