@@ -7,7 +7,7 @@ tags:
 date:
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'www.clevelandclinic.org'
+external_link: ''
 
 image:
   caption: Cleveland Clinics Main Campus
@@ -18,6 +18,10 @@ links:
     icon_pack: fab
     name: Follow
     url: 'https://twitter.com/lyonszhang'
+  - icon_pack: fab
+    icon: hospital
+    name: website
+    url: 'www.clevelandclinic.org'
 url_code: ''
 url_pdf: ''
 url_slides: ''
