@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Rotation Student
+role: Ph.D. Student in Biomedical & Health Informatics
 
 # Organizations/Affiliations
 organizations:
