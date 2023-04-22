@@ -2,10 +2,10 @@
 title: Projects
 
 # Listing view
-view: card
+view: showcase
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: ''
+  image: 'What-is-a-Project-1-scaled.jpg'
 ---
