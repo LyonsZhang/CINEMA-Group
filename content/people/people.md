@@ -19,7 +19,7 @@ content:
     - Principal Investigators
     - Researchers
     - Data Analysts
-    - PhD Students
+    - Doctoral Students
     - Research Associates
     - Research Assistants
     - Master Assistants

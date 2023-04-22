@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Doctoral Students
 ---
 
 Jiasen Zhang is a Mathematics Ph.D. Student in Case Western Reserve University.

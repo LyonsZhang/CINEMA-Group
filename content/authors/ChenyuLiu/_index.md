@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Doctoral Students
 ---
 
 Chenyu is a master student in Statistics at Case Western Reserve University, with a strong background in mathematical modeling. She is also skilled in statistical data analysis, having gained hands-on experience through internships in various fields.
