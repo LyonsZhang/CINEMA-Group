@@ -12,9 +12,6 @@ main:
     weight: 20
   - name: People
     identifier: tags
-    weight: 30
-  - name: Members
-    parent: tags
     url: people
     weight: 30
   - name: Join us
