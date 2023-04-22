@@ -2,7 +2,7 @@
 title: Projects
 
 # Listing view
-view: showcase
+view: list
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
