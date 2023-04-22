@@ -19,6 +19,8 @@ content:
     - Principal Investigators
     - Researchers
     - PhD Students
+    - Research Associates
+    - Research Assistants
     - MSc Students
     - Undergraduate Students
     - Administration
