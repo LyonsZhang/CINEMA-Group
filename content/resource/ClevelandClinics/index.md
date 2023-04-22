@@ -7,7 +7,7 @@ tags:
 date:
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://clevelandclinic.org'
+external_link: ''
 
 image:
   caption: Cleveland Clinics Main Campus
@@ -45,4 +45,4 @@ In addition to its exceptional patient care, the Cleveland Clinic Foundation is 
 
 Finally, the Cleveland Clinic Foundation is also dedicated to medical education. The hospital is affiliated with Case Western Reserve University School of Medicine, one of the top medical schools in the country. The hospital's medical education programs are designed to train the next generation of healthcare professionals, providing them with the knowledge and skills they need to provide exceptional patient care and to advance medical science.
 
-In conclusion, the Cleveland Clinic Foundation is an exceptional healthcare institution that is dedicated to improving the health and well-being of people around the world. Its commitment to patient-centered care, groundbreaking research, and outstanding medical education programs make it a true leader in the field of healthcare. With its long history of excellence and its unwavering commitment to innovation and compassion, the Cleveland Clinic is a beacon of hope and healing for millions of people around the world.
+In conclusion, the Cleveland Clinic Foundation is an exceptional healthcare institution that is dedicated to improving the health and well-being of people around the world. Its commitment to patient-centered care, groundbreaking research, and outstanding medical education programs make it a true leader in the field of healthcare. With its long history of excellence and its unwavering commitment to innovation and compassion, the Cleveland Clinic is a beacon of hope and healing for millions of people around the world. https://clevelandclinic.org
