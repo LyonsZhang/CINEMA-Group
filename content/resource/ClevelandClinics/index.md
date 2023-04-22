@@ -18,10 +18,10 @@ links:
     icon_pack: fab
     name: Follow
     url: 'https://twitter.com/lyonszhang'
-  - icon_pack: fab
+  - icon_pack: fad
     icon: hospital
     name: website
-    url: 'www.clevelandclinic.org'
+    url: 'https://clevelandclinic.org'
 url_code: ''
 url_pdf: ''
 url_slides: ''
