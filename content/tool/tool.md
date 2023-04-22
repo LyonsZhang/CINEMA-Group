@@ -21,7 +21,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-   - block: markdown
+   - block: collection
     id: section-2
     content:
       title: Section 2
