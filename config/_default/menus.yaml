@@ -19,7 +19,7 @@ main:
   - name: Tools
     url: tool
     weight: 50
-    - name: Projects
+  - name: Projects
     url: project
     weight: 60  
   - name: Resources
