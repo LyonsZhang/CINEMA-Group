@@ -3,7 +3,7 @@ title: R Tools
 type: landing
 
 sections:
-  - block: markdown
+  - block: features
     content:
       title: My Interests
       subtitle: Section subtitle
