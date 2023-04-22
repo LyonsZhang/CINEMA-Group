@@ -40,7 +40,7 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Research topics
-        url: projects
+        url: project
     - title: World-Class Biostatistics Lab
       content: 'Just opened last month!'
       align: right
