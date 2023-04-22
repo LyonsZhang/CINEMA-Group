@@ -31,13 +31,15 @@ marketing:
 
 header:
   navbar:
+    # Choose a navigation block
+    block: navbar
     enable: true
     align: r
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
