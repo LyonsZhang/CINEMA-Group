@@ -7,7 +7,7 @@ tags:
 date:
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://clevelandclinic.org'
+external_link: ''
 
 image:
   caption: Cleveland Clinics Main Campus
