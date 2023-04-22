@@ -1,5 +1,5 @@
 ---
-title: My page
+title: R Tools
 type: landing
 
 sections:
@@ -21,4 +21,7 @@ sections:
       #     description: 10%
       #     icon: camera-retro
       #     icon_pack: fas
+      design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
