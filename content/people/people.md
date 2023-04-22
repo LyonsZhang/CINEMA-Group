@@ -22,7 +22,7 @@ content:
     - PhD Students
     - Research Associates
     - Research Assistants
-    - MSc Assistants
+    - Master Assistants
     - Undergraduate Students
     - Administration
     - Summer Interns
