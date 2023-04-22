@@ -36,6 +36,11 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: 'https://cwru-cinema.com/projects'
     - title: World-Class Biostatistics Lab
       content: 'Just opened last month!'
       align: right
@@ -48,5 +53,5 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
-        url: 'https://apply.interfolio.com/119841'
+        url: 'https://cwru-cinema.com/Activities/join'
 ---
