@@ -24,6 +24,8 @@ content:
     - MSc Students
     - Undergraduate Students
     - Administration
+    - Summer Interns
+    - PhD Rotations
     - Visitors
     - Alumni
 design:
