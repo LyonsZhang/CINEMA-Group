@@ -2,7 +2,7 @@
 title: Projects
 
 # Listing view
-view: list
+view: masonry
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
