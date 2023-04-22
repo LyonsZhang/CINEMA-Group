@@ -7,6 +7,6 @@ columns: '1'
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: 'project.png'
+  caption: 'project.png'
+  image: ''
 ---
