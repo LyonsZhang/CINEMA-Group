@@ -7,33 +7,36 @@ main:
   - name: Home
     url: tour
     weight: 10
-  - name: News
-    url: post
-    weight: 20
   - name: People
-    identifier: tags
     url: people
-    weight: 30
-  - name: Join us
-    parent: tags
-    url: join
-    weight: 30
+    weight: 20
   - name: Publications
     url: publication
-    weight: 40
+    weight: 30
   - name: Tools
     url: tool
-    weight: 60
-  - name: 
+    weight: 40
   - name: Projects
     url: project
     weight: 50  
   - name: Resources
     url: resource
+    weight: 60 
+  - name: Activities
+    identifier: tags
     weight: 70
+  - name: News
+    parent: tags
+    url: post
+    weight: 71 
   - name: Events
+    parent: tags
     url: event
-    weight: 80  
+    weight: 72   
+  - name: Join us
+    parent: tags
+    url: join
+    weight: 73
   - name: Contact
     url: contact
-    weight: 90
+    weight: 80
