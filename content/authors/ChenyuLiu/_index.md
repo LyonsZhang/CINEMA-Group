@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant 
+role: Biostatistics Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
