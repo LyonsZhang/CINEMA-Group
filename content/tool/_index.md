@@ -1,8 +1,8 @@
 ---
-title: Research Projects
+title: Computational Tools
 
 # Listing view
-view: masonry
+view: card
 columns: '1'
 
 # Optional banner image (relative to `assets/media/` folder).
