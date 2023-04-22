@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant 
+role: Master Student in Statistics
 
 # Organizations/Affiliations
 organizations:

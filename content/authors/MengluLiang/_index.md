@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Biostatistics Ph.D. Candidate
+role: Ph.D. Candidate in Biostatistics
 
 # Organizations/Affiliations
 organizations:

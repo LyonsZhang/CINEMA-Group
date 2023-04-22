@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Mathematics Ph.D. Student
+role: Ph.D. Student in Mathematics
 
 # Organizations/Affiliations
 organizations:
