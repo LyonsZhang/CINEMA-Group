@@ -21,9 +21,10 @@ organizations:
 bio: Dr. Zhang's research interests center around Bayesian inference and prediction, high dimensional models, and complex structured data, such as brain imaging and metagenomic data.
 
 interests:
-  - High-dimensional methods for Image Data Analysis
-  - Microbiome and Compositional Data Analysis
-  - Bayesian Variable Selection in High-dimensional Setting
+  - High-dimensional methods
+  - Compositional Data Analysis
+  - Microbiome and other omics
+  - Bayesian Variable Selection
 
 education:
   courses:
