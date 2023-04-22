@@ -39,8 +39,8 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
-        url: 'https://cwru-cinema.com/projects'
+        text: Research topics
+        url: projects
     - title: World-Class Biostatistics Lab
       content: 'Just opened last month!'
       align: right
@@ -53,5 +53,5 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
-        url: 'https://cwru-cinema.com/Activities/join'
+        url: 'https://cwru-cinema.com/join'
 ---
