@@ -18,10 +18,11 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - Data Analysts
     - PhD Students
     - Research Associates
     - Research Assistants
-    - MSc Students
+    - MSc Assistants
     - Undergraduate Students
     - Administration
     - Summer Interns
