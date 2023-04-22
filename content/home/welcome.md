@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Analysis)** Group has established itself at CWRU (Case Western Reserve University) as a biostatistical and bioinformatic center of facilitating computational excellence and quantitative innovation for biomedical research since its launch in 2023. We are open to cross-disciplinary collaborations and the practical application of research findings.
+The **CINEMA (Clinical Informatics, NEuroimaging, and Multiomics Analysis)** Group has established itself at CWRU (Case Western Reserve University) as a biostatistical and bioinformatic center of facilitating computational excellence and quantitative innovation for biomedical research since its launch in 2023. We are open to cross-disciplinary collaborations and the practical application of research findings. We provide statistical support to translate large medical data from benchwork to knowledge in precision medicine.
