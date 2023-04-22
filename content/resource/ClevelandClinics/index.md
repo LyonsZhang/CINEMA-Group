@@ -2,7 +2,8 @@
 title: Cleveland Clinics Foundation
 summary: An introduction to Cleveland Clinics
 tags:
-  - Cleveland Clinics, Medical Center
+  - Medical Center
+  - Cleveland Clinics
 date:
 
 # Optional external URL for project (replaces project detail page).
