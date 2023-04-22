@@ -1,22 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Cleveland Clinics Foundation
+summary: An introduction to Cleveland Clinics
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Cleveland Clinics, Medical Center
+date:
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'www.clevelandclinic.org'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Cleveland Clinics Main Campus
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: 'https://twitter.com/lyonszhang'
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,15 +27,17 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Cleveland Clinic Foundation is a world-renowned academic medical center located in Cleveland, Ohio, USA. It is one of the largest and most respected hospitals in the United States, known for its exceptional patient care, innovative research, and outstanding medical education programs. With a long history of excellence dating back to its founding in 1921, the Cleveland Clinic has become a beacon of hope and healing for millions of patients around the world.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The Cleveland Clinic Foundation is more than just a hospital; it is a comprehensive healthcare system that encompasses multiple hospitals, outpatient clinics, research facilities, and educational institutions. The main campus of the Cleveland Clinic is located in the heart of Cleveland's University Circle, a vibrant cultural district that is home to several other world-class institutions, including Case Western Reserve University, the Cleveland Museum of Art, and Severance Hall, the home of the Cleveland Orchestra.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+At the core of the Cleveland Clinic's mission is a commitment to patient-centered care. The hospital is dedicated to providing the highest quality of care to every patient who walks through its doors, regardless of their background or circumstances. Patients at the Cleveland Clinic have access to some of the most advanced medical technologies and treatments available, including robotic surgery, precision medicine, and immunotherapy. The hospital's highly trained physicians and nurses are committed to treating each patient with compassion, empathy, and respect, and to working collaboratively with patients to develop personalized treatment plans that meet their unique needs.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+In addition to its exceptional patient care, the Cleveland Clinic Foundation is also a leader in medical research. The hospital's research facilities are home to some of the world's top scientists and researchers, who are working tirelessly to discover new treatments and cures for a wide range of diseases and conditions. The Cleveland Clinic's research programs are focused on a wide range of areas, including cancer, cardiology, neurology, and genetics. The hospital is also home to the Lerner Research Institute, one of the largest and most respected medical research centers in the world.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Finally, the Cleveland Clinic Foundation is also dedicated to medical education. The hospital is affiliated with Case Western Reserve University School of Medicine, one of the top medical schools in the country. The hospital's medical education programs are designed to train the next generation of healthcare professionals, providing them with the knowledge and skills they need to provide exceptional patient care and to advance medical science.
+
+In conclusion, the Cleveland Clinic Foundation is an exceptional healthcare institution that is dedicated to improving the health and well-being of people around the world. Its commitment to patient-centered care, groundbreaking research, and outstanding medical education programs make it a true leader in the field of healthcare. With its long history of excellence and its unwavering commitment to innovation and compassion, the Cleveland Clinic is a beacon of hope and healing for millions of people around the world.
