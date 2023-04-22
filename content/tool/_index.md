@@ -2,7 +2,7 @@
 title: Computational Tools
 
 # Listing view
-view: card
+view: list
 columns: '1'
 
 # Optional banner image (relative to `assets/media/` folder).
