@@ -4,7 +4,7 @@ summary: An introduction to The MetroHealth System
 tags:
   - Medical Center
   - MetroHealth
-date:
+date: '2023-04-22'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -51,3 +51,5 @@ In addition to its clinical services, MetroHealth Cleveland is also a major rese
 
 
 Overall, MetroHealth Cleveland is a world-class healthcare institution that has made significant contributions to the field of medicine. Its commitment to providing exceptional care to all members of the community, its dedication to community health, and its focus on research and education make it a valuable asset to the city of Cleveland and beyond.
+
+For more details, please check in the website https://www.metrohealth.org.
