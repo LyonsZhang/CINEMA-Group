@@ -1,5 +1,5 @@
 ---
-title: 
+title: Resources and Facilities
 
 # Listing view
 view: card
