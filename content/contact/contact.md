@@ -45,7 +45,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: lions_z@hotmail.com
+      id: mayzadey
    # netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
