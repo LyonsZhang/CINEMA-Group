@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: cinema@case.edu
-  phone: 216 368 5968
+  phone: (216)368-5968
   address:
     street: Euclid Avenue
     city: Cleveland
