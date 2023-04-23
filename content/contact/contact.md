@@ -44,6 +44,7 @@ content:
   # Email form provider
   form:
     provider: formspree
+    method: post
     formspree:
       id: mayzadey
    # netlify:
