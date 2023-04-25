@@ -48,6 +48,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mwang_cwru
+  - icon: google
+    icon_pack: fab
+    link: https://sites.google.com/view/mingwang-cwru
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=gabMdl4AAAAJ&hl=en
