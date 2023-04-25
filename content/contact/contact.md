@@ -49,7 +49,7 @@ content:
       id: mayzadey
    # netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      #captcha: true
 
 design:
   columns: '1'
