@@ -44,7 +44,7 @@ social:
     link: 'mailto:chixiang.chen@som.umaryland.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://sites.google.com/view/chixiangchen/
+    link: https://sites.google.com/view/chixiangchen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
