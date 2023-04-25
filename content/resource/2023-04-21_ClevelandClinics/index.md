@@ -47,3 +47,5 @@ Finally, the Cleveland Clinic Foundation is also dedicated to medical education.
 
 In conclusion, the Cleveland Clinic Foundation is an exceptional healthcare institution that is dedicated to improving the health and well-being of people around the world. Its commitment to patient-centered care, groundbreaking research, and outstanding medical education programs make it a true leader in the field of healthcare. With its long history of excellence and its unwavering commitment to innovation and compassion, the Cleveland Clinic is a beacon of hope and healing for millions of people around the world. 
 
+For more details, please check in the website https://clevelandclinic.org.
+
