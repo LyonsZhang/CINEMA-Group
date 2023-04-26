@@ -47,7 +47,7 @@ social:
     link: https://twitter.com/LCY_1118
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/mynetwork/
+    link: https://www.linkedin.com/in/chenyu-liu-27246621b
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
