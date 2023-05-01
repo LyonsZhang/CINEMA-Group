@@ -17,7 +17,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: 'https://twitter.com/lyonszhang'
+    url: 'https://twitter.com/cwrucinema'
   - icon_pack: far
     icon: hospital
     name: website
