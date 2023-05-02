@@ -7,7 +7,8 @@ tags:
 date: '2023-05-02'
 external_link: ''
 image:
-  caption: Cleveland Clinics Main Campus
+  ![ghannoum-5](https://user-images.githubusercontent.com/90227639/235785759-cb0d2594-1445-429e-abf0-b9e912a15b2f.jpg)
+  caption: Professor Mahmoud Ghannoum
   focal_point: Smart
 links:
   - icon: twitter
