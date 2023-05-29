@@ -1,6 +1,7 @@
 ---
 title: R package “ELCIC”
-summary: The Empirical Likelihood-Based Consistent Information Criterion Selection using `external_link`.
+summary: The Empirical Likelihood-Based Consistent Information.
+
 tags:
   - Demo
 date: "2023-05-26"
