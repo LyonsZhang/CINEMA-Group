@@ -1,6 +1,7 @@
 ---
 title: R package “wgeesel”
-summary: Weighted Generalized Estimating Equations and Model Selection using `external_link`.
+summary: Weighted Generalized Estimating Equations and Model.
+
 tags:
   - Demo
 date: "2023-05-26"
