@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: The HAILO project
+summary: In this study, we focus on the primary outcomes of NCI and aim to enhance our understanding and knowledge of it and identify associated potential risk factors including metabolic-related markers or inflammatory factors by leveraging the highly correlated information from secondary outcomes of frailty, falls and disability.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-05-31'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,12 +30,6 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Individuals living with HIV (PWH) encounter a greater occurrence and earlier emergence of age-related health issues compared to the general population. Among these, a significant concern is neurocognitive impairment (NCI), which is more prevalent in PWH than in individuals without HIV (PwoH). The resulting physical and cognitive decline escalates the risk of falls, frailty, and mortality among older PWH. Previous studies, both in PWH and PwoH, have revealed noteworthy connections between frailty and NCI in older individuals. In the HIV Infection, Aging, and Immune Function Long-Term Observation (HAILO) study involving older PWH, it was observed that baseline NCI served as a predictor of subsequent frailty, while the reverse relationship was not apparent.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+This study primarily focuses on neurocognitive impairment (NCI) as its main objective, aiming to deepen our understanding and knowledge of this condition. Additionally, it aims to identify potential risk factors associated with NCI, including markers related to metabolism and inflammatory factors. To achieve this, we will utilize the highly correlated information obtained from secondary outcomes such as frailty, falls, and disability. Our approach will involve employing the proposed and published methods capable of handling diverse types of outcomes, including binary data and time-to-event data. We will utilize an empirical likelihood-based weighting framework to conduct an exclusive exploration of the HAILO study.
