@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Rotations
+  - Past PhD Rotations
 ---
 
  Hossam Sarhan is interested in using Machine Learning for solving medical problems such as medical imaging data. My previous work was about developing a deep learning model for predicting whether a catheter or tube is placed correctly using chest X-rays.

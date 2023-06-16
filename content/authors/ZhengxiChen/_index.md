@@ -50,7 +50,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Rotations
+  - Past PhD Rotations
 ---
 
 Zhengxi Chen is a Epidemiology & Biostatistics PhD student in CWRU.
