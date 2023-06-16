@@ -26,9 +26,9 @@ content:
     - Undergraduate Students
     - Administration
     - Summer Interns
-    - PhD Rotations
     - Visitors
     - Alumni
+    - Past PhD Rotations
 design:
   show_interests: false
   show_role: true
