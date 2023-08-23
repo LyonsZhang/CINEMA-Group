@@ -17,11 +17,11 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Principal Investigators
+    - Research Associates
+    - Research Assistants
     - Researchers
     - Data Analysts
     - Doctoral Students
-    - Research Associates
-    - Research Assistants
     - Master Assistants
     - Undergraduate Students
     - Administration

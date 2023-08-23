@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student in Computer Science
+role: Data Analyst
 
 # Organizations/Affiliations
 organizations:

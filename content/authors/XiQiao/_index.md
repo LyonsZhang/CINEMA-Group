@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD in Statistics
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,10 @@ organizations:
 bio: Xi is currently a research associate working with Dr. Zhang in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. She earned her doctorate degree in Statistics from Western Michigan University in 2023. Her doctoral research focused on High-dimensional Mediation Analysis. In a broader sense, her research interests include causal mediation analysis, high-dimensional genome-wide analysis, Bayesian inference, causal inference, dynamic borrowing methods, propensity score methods, and meta-analysis of real-world evidence.
 
 interests:
-  - Microbiome Data
-  - Medical Imaging
-  - Machine Learning
+  - Mediation analysis
+  - High-dimensional Epigenetic analysis 
+  - Bayesian Inference 
+  - Propensity Score methods
 
 education:
   courses:
@@ -71,5 +72,5 @@ email: ''
 user_groups:
   - Research Associates
 ---
-
+Xi is currently a research associate working with Dr. Zhang in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. She earned her doctorate degree in Statistics from Western Michigan University in 2023. Her doctoral research focused on High-dimensional Mediation Analysis. In a broader sense, her research interests include causal mediation analysis, high-dimensional genome-wide analysis, Bayesian inference, causal inference, dynamic borrowing methods, propensity score methods, and meta-analysis of real-world evidence.
 
