@@ -10,24 +10,24 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in Biostatistics
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Penn State University
+  - name: University of Maryland
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xinyu Sun is a Biostatistics Ph.D. Candidate in Penn State University.
+bio: Menglu Liang is an Assistant Professor in University of Maryland.
 
 
 
 education:
   courses:
-    - course: PhD in Biostatistics
+    - course: Ph.D. in Biostatistics
       institution: Penn State University
-      year: 
-    - course: MS in Biostatistics
+      year: 2023
+    - course: M.S. in Biostatistics
       institution: Boston University
       year: 2019
 
@@ -51,7 +51,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Doctoral Students
+  - Alumini
 ---
 
-Xinyu Sun is a Biostatistics Ph.D. Candidate in Penn State University.
+Menglu Liang is an Assistant Professor in University of Maryland.
