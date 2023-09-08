@@ -4,7 +4,7 @@ title: Hao(Andy) Wu
 
 # Username (this should match the folder name)
 authors:
-  - Hao Wu
+  - HaoWu
 
 # Is this the primary user of the site?
 superuser: false

@@ -4,7 +4,7 @@ title: Sarah Grabinski
 
 # Username (this should match the folder name)
 authors:
-  - Sarah Grabinski
+  - SarahGrabinski
 
 # Is this the primary user of the site?
 superuser: false
