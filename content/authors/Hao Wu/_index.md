@@ -22,7 +22,7 @@ bio: Hao Wu earned his bachelor's degree in Mathematics and a master's degree in
 
 interests:
   - Causal Inference
-  - Bayesian
+  - Bayesian Model
   - Survival Analysis
   - Real-world Evidence
   - Social Networks
@@ -69,5 +69,5 @@ user_groups:
   - Doctoral Students
 ---
 
-Hao (Andy) is currently a first-year PhD student in Epidemiology & Biostatistics at Case Western Reserve University. 
+Hao (Andy) is currently a first-year PhD student in Epidemiology & Biostatistics at Case Western Reserve University. Hao Wu earned his bachelor's degree in Mathematics and a master's degree in Statistics before embarking on his doctoral journey. He's truly passionate about mathematics and data, with a knack for tackling intricate problems and uncovering valuable insights from data. Of course, he is a math nerd.
 
