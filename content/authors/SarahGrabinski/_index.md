@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Summer Interns
+  - Biostatisticians
 ---
 
 Sarah completed her Master's degree in Biostatistics at Case Western Reserve University. With several years of experience in wet lab experiments, she possesses the ability to seamlessly integrate her hands-on benchwork expertise into her knowledge in quantitative analysis, enhancing her overall research capabilities.

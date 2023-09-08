@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Research Associates
+    - Biostatisticians
     - Research Assistants
     - Researchers
     - Data Analysts
