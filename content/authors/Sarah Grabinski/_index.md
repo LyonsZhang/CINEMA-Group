@@ -15,7 +15,7 @@ role: Biostatistician
 # Organizations/Affiliations
 organizations:
   - name: Case Western Reserve University
-    url: ''
+    url: 'https://case.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Sarah completed her Master's degree in Biostatistics at Case Western Reserve University. With several years of experience in wet lab experiments, she possesses the ability to seamlessly integrate her hands-on benchwork expertise into her knowledge in quantitative analysis, enhancing her overall research capabilities.
