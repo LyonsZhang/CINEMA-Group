@@ -74,7 +74,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/LiangliangZhang_CV_230131.pdf
+    link: files/CV_LiangliangZhang_01312024.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
