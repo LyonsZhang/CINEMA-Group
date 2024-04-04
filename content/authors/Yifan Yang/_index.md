@@ -33,7 +33,7 @@ education:
     - course: M.S in Biostatistics
       institution: Michigan State University
       year: 2016
-     - course: B.S. in Statistics
+    - course: B.S. in Statistics
       institution: Sichuan University
       year: 2013
 
