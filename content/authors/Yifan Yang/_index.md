@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoc
+  - Postdoctoral Research Scholor
 ---
 
 Yifan is presently serving as a Postdoc Scholar under the guidance of Dr. Ming Wang in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Prior to joining Dr. Wang’s team, he attained a Ph.D. in Statistics from University of Maryland, College

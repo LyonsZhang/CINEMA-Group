@@ -22,8 +22,8 @@ content:
     - Research Assistants
     - Researchers
     - Data Analysts
+    - Postdoctoral Research Scholor
     - Doctoral Students
-    - Postdoc
     - Master Assistants
     - Undergraduate Students
     - Administration
