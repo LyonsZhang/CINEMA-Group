@@ -25,8 +25,9 @@ With health systems, academic researchers, and biotech industry
 
 For more information, please visit https://case.edu/medicine/pqhs/education/biostatistics-epidemiology/ms-biostatistics and the following pictures.
 
-Revised Biostat MS Flyer_2023.jpg
+![Revised Biostat MS Flyer_2023](https://github.com/LyonsZhang/CINEMA-Group/assets/90227639/135a7cd2-5a52-428f-bd2d-02f6ff11088c)
 
 
-   # [Apply - Interfolio](https://apply.interfolio.com/120863)
+
+   # [Apply]([https://apply.interfolio.com/120863](https://case.edu/medicine/pqhs/education/biostatistics-epidemiology/ms-biostatistics))
 
