@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Doctoral Students
+  - Past PhD Rotations
 ---
 
 Hao (Andy) is currently a first-year PhD student in Epidemiology & Biostatistics at Case Western Reserve University. Hao Wu earned his bachelor's degree in Mathematics and a master's degree in Statistics before embarking on his doctoral journey. He's truly passionate about mathematics and data, with a knack for tackling intricate problems and uncovering valuable insights from data. Of course, he is a math nerd.
