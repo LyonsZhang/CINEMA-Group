@@ -17,20 +17,20 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Principal Investigators
+    - Postdoctoral Research Scholar
     - Research Associates
     - Biostatisticians
     - Research Assistants
     - Researchers
     - Data Analysts
-    - Postdoctoral Research Scholar
     - Doctoral Students
-    - External Students
     - Master Assistants
     - Undergraduate Students
     - Administration
     - Summer Interns
     - Visitors
     - Collaborators
+    - External Students
     - Past Lab Members
     - Past PhD Rotations
     - Alumni
