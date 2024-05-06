@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Summer Interns
+  - Undergraduate Students
 ---
 
 Yiqian Zhang is currently an undergraduate research assistant under the guidance of Professor Liangliang Zhang in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Yiqian is pursuing a bachelor's degree in Applied Mathematics and Statistics at the University of Illinois at Urbana-Champaign, expected to graduate in May 2025. His research focuses on the analytical system of compositional data transformations in microbiome studies. More broadly, his interests include microbial community analysis, network dynamics analysis, and computational models related to mood.
