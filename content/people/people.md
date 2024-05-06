@@ -30,9 +30,10 @@ content:
     - Administration
     - Summer Interns
     - Visitors
+    - Collaborators
     - Past Lab Members
-    - Alumni
     - Past PhD Rotations
+    - Alumni
 design:
   show_interests: false
   show_role: true
