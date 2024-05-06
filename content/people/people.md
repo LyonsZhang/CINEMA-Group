@@ -29,6 +29,7 @@ content:
     - Administration
     - Summer Interns
     - Visitors
+    - Past Lab Members
     - Alumni
     - Past PhD Rotations
 design:

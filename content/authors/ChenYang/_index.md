@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Past Lab Members
 ---
 
 Chen Yang is a junior at Southern Medical University majoring in biostatistics. In 2020-2021, he was awarded the National Scholarship from the Ministry of Education of China, an honor only received by 0.2% of China's top students.
