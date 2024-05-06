@@ -24,6 +24,7 @@ content:
     - Data Analysts
     - Postdoctoral Research Scholar
     - Doctoral Students
+    - External Students
     - Master Assistants
     - Undergraduate Students
     - Administration
