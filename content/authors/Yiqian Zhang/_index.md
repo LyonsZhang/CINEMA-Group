@@ -38,16 +38,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yiorfun@case.edu'
+    link: 'mailto:holden_yiqianzhang@outlook.com'
  # - icon: twitter
  #   icon_pack: fab
  #   link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/yiorfun/
+    link: https://github.com/YiqianZhang1004
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link:  https://www.linkedin.com/in/yiqianzhang1004/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
