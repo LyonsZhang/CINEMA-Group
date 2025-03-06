@@ -24,6 +24,7 @@ content:
     - Researchers
     - Data Analysts
     - Doctoral Students
+    - Visiting Research Students
     - Master Assistants
     - Undergraduate Students
     - Administration
@@ -31,7 +32,6 @@ content:
     - Visitors
     - Collaborators
     - External Students
-    - Visiting Research Students
     - Dissertation Committee students
     - Past Lab Members
     - Past PhD Rotations
