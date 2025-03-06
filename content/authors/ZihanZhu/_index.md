@@ -62,4 +62,4 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Zihan is presently serving as a Postdoc Scholar under the guidance of Dr. Liangliang ZHang in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Prior to joining Dr. Wang’s team, he attained a Ph.D. in Statistics from University of Arizona, in 2024.
+Zihan is presently serving as a Postdoc Scholar under the guidance of Dr. Liangliang ZHang in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Prior to joining Liangliang’s team, he attained a Ph.D. in Statistics from University of Arizona, in 2024.
