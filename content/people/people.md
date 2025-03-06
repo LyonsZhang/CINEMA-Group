@@ -31,6 +31,8 @@ content:
     - Visitors
     - Collaborators
     - External Students
+    - Visiting Research Students
+    - Dissertation Committee students
     - Past Lab Members
     - Past PhD Rotations
     - Alumni

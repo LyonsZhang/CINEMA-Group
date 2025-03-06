@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Associates
+  - Past Lab Members
 ---
 Xi is currently a research associate working with Dr. Zhang in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. She earned her doctorate degree in Statistics from Western Michigan University in 2023. Her doctoral research focused on High-dimensional Mediation Analysis. In a broader sense, her research interests include causal mediation analysis, high-dimensional genome-wide analysis, Bayesian inference, causal inference, dynamic borrowing methods, propensity score methods, and meta-analysis of real-world evidence.
 
