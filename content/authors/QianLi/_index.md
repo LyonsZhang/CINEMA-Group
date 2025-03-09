@@ -1,38 +1,36 @@
 ---
 # Display name
-title: Zixiang Yin
+title: Qian Li
 
 # Username (this should match the folder name)
 authors:
-  -  ZixiangYin
+  - QianLi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Computer Science
+role: Assistant Member, St. Jude Faculty
 
 # Organizations/Affiliations
 organizations:
-  - name: Tulane University
-    url: ''
+  - name: St. Jude Children's Research Hosipital
+    url: 'https://www.stjude.org/directory/l/qian-li.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Zixiang Yin is a Ph.D. student in Computer Science from Tulane University.
+bio: Qian Li is an assistant member in St. Jude Children's Research Hospital. 
 
 interests:
-  - Machine learning
-  - Omics data
+  - Statistical and machine learning methods for high dimensional omics data
+  - Integrative analysis in multi-omics studies
+  - Longitudinal and time series models
 
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: Tulane University
-      year: 
- #   - course: Master of Science
- #     institution: University of Michgan
- #     year: 
-
+    - course: PhD in Statistics
+      institution: University of Missouri
+      year:
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,10 +39,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.cn/incareer/in/daxuan-deng-837b3b196
+    link: 'mailto:qian.li@stjude.org'
+  - icon: google
+    icon_pack: fab
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -57,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Research Students
+  - Collaborators
 ---
 
-Zixiang Yin is a Computer Science Ph.D. Student in Tulane University.
+Qian Li is an assistant member in St. Jude Children Research Hospital.

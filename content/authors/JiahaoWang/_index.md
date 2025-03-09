@@ -4,7 +4,7 @@ title: Jiahao Wang
 
 # Username (this should match the folder name)
 authors:
-  -  Jiahao Wang
+  -  JiahaoWang
 
 # Is this the primary user of the site?
 superuser: false

@@ -4,7 +4,7 @@ title: Zihan Zhu
 
 # Username (this should match the folder name)
 authors:
-  - Zihan Zhu
+  - ZihanZhu
 
 # Is this the primary user of the site?
 superuser: true
