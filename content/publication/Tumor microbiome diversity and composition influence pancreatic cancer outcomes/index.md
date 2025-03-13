@@ -5,7 +5,7 @@ authors:
   - Yu Zhang
   - Liangliang Zhang
   - et al
-date: 'https://doi.org/10.1016/j.cell.2019.07.008'
+date: '2021-11-16T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.cell.2019.07.008'
 
 # Schedule page publish date (NOT publication's date).
@@ -63,9 +63,9 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
 ## Abstract
 
