@@ -33,14 +33,10 @@ main:
     parent: tags
     url: event
     weight: 72
-  - name: Lab Dinner
-    parent: tags
-    url: labdinner
-    weight: 73
   - name: Join us
     parent: tags
     url: join
-    weight: 74
+    weight: 73
   - name: Contact
     url: contact
     weight: 80
