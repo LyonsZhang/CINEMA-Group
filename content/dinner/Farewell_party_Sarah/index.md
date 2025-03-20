@@ -1,5 +1,6 @@
 ---
-title: Celebrating Sarah's Outstanding Contributions: Best Wishes for a Bright Future
+title: Celebrating Sarah's Outstanding Contributions and Best Wishes for a Bright Future
+data: 2024-10-15
 image:
   focal_point: 'top'
 ---
