@@ -20,7 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Mirela Dobre, MD, MPH, is a board-certified nephrologist at University Hospitals Cleveland Medical Center, Division of Nephrology and Hypertension. She is also an associate professor at Case Western Reserve University. 
 
-interests:Nephrology, Internal Medicine
+interests:
+  - Nephrology, Internal Medicine
   
 
 education:
