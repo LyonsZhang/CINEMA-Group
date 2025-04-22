@@ -58,6 +58,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    extensions:
+      math: false
 related:
   threshold: 80
   includeNewer: true
