@@ -1,8 +1,8 @@
 ---
-title: Beta Diversity Diagnosis Project
-summary: The project focus on explore the concordance of 16S rRNA and shotgun metagenome sequencing data from different perspectives.
+title: Perfect Separation Project
+summary:
 tags:
-  - microbiome data analyses
+  - Statistical data analyses
 date: '2025-05-08'
 
 # Optional external URL for project (replaces project detail page).
