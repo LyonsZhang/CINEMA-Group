@@ -1,6 +1,6 @@
 ---
 title: First Lab Dinner for 2023 Winter Holiday!
-data: 2023-12-13
+date: 2023-12-13
 image:
   focal_point: 'top'
 ---

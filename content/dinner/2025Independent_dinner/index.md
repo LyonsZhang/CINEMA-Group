@@ -1,6 +1,6 @@
 ---
 title: Lab Dinner for 2025 Independent Day Holiday!
-data: 2025-07-03
+date: 2025-07-03
 image:
   focal_point: 'top'
 ---

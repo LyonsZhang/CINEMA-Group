@@ -1,6 +1,6 @@
 ---
 title: Annual Picnic of PQHS
-data: 2024-08-23
+date: 2024-08-23
 image:
   focal_point: 'top'
 ---
